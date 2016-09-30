@@ -50,7 +50,7 @@ for id in sorted(gene_sprfam.keys()):
             cat_evals+=suprfam_id+'['+str(min_eval)+']'+'; '
         else:#no suprfam_id does not exist for that gene_id
             cat_des='-'
-            cat_sprfam='-'
+            cat_sprfam_id='-'
             cat_evals='-'
     cat_sprfam_id=cat_sprfam_id.strip(',')
     cat_des=cat_des.rstrip().rstrip(';')
