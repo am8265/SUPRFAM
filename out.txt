@@ -1,0 +1,1001 @@
+protein_id	suprfam_id	description	Evals
+Eucgr.D01580.1.p	0037832	0037832[Prefoldin]	0037832[1.7e-17]
+Eucgr.D01589.1.p		-	-
+Eucgr.D01596.1.p	0045974,0053686,0041848	0045974["Winged helix" DNA-binding domain]; 0053686[P-loop containing nucleoside triphosphate hydrolases]; 0041848[L domain-like]	0045974[1.85e-06]; 0053686[2.56e-55]; 0041848[3.23e-06]
+Eucgr.D01608.1.p	0049913	0049913[RmlC-like cupins]	0049913[1.64e-45]
+Eucgr.D01624.1.p	0044931	0044931[FAD-binding/transporter-associated domain-like]	0044931[2.99e-28]
+Eucgr.D01628.1.p	0048449,0048255	0048449[DNA primase core]; 0048255[P-loop containing nucleoside triphosphate hydrolases]	0048449[2.62e-21]; 0048255[8.64e-19]
+Eucgr.D01628.2.p	0048449,0048255	0048449[DNA primase core]; 0048255[P-loop containing nucleoside triphosphate hydrolases]	0048449[2.62e-21]; 0048255[8.73e-18]
+Eucgr.D01640.1.p	0035563	0035563[Thiolase-like]	0035563[1.61e-11]
+Eucgr.E00001.1.p	0039935	0039935[NAD(P)-binding Rossmann-fold domains]	0039935[3.34e-54]
+Eucgr.E00016.1.p		-	-
+Eucgr.E00025.1.p	0044416	0044416[P-loop containing nucleoside triphosphate hydrolases]	0044416[8.48e-55]
+Eucgr.E00028.1.p	0051642,0054395	0051642[TPR-like]; 0054395[TPR-like]	0051642[0.000325]; 0054395[0.000196]
+Eucgr.E00031.1.p		-	-
+Eucgr.E00035.1.p		-	-
+Eucgr.E00051.1.p	0049906	0049906[EF-hand]	0049906[3.23e-40]
+Eucgr.E00051.2.p	0049906	0049906[EF-hand]	0049906[3.23e-40]
+Eucgr.E00071.1.p		-	-
+Eucgr.E00090.1.p	0046186	0046186[(Trans)glycosidases]	0046186[1.55e-90]
+Eucgr.E00091.1.p	0046186	0046186[(Trans)glycosidases]	0046186[5.99e-97]
+Eucgr.E00095.1.p	0051044	0051044[LEA14-like]	0051044[1.44e-05]
+Eucgr.E00133.1.p	0048172	0048172[Adenine nucleotide alpha hydrolases-like]	0048172[0.000147]
+Eucgr.E00141.1.p	0046094,0046093,0050530	0046094[Thioesterase/thiol ester dehydrase-isomerase]; 0046093[Thioesterase/thiol ester dehydrase-isomerase]; 0050530[cAMP-binding domain-like]	0046094[1.49e-42]; 0046093[5.03e-31]; 0050530[5.63e-17]
+Eucgr.E00141.2.p	0046094,0046093,0050530	0046094[Thioesterase/thiol ester dehydrase-isomerase]; 0046093[Thioesterase/thiol ester dehydrase-isomerase]; 0050530[cAMP-binding domain-like]	0046094[1.92e-45]; 0046093[4.94e-31]; 0050530[5.5e-17]
+Eucgr.E00148.1.p	0047619,0048505,0041848	0047619[L domain-like]; 0048505[L domain-like]; 0041848[L domain-like]	0047619[3.4e-25]; 0048505[4.76e-52]; 0041848[9.01e-56]
+Eucgr.E00160.1.p	0053626	0053626[Barwin-like endoglucanases]	0053626[6.63e-11]
+Eucgr.E00171.1.p		-	-
+Eucgr.E00173.1.p		-	-
+Eucgr.E00184.1.p	0052765	0052765[HAD-like]	0052765[7.66e-46]
+Eucgr.E00195.1.p	0050495	0050495[C2 domain (Calcium/lipid-binding domain, CaLB)]	0050495[1.93e-15]
+Eucgr.E00201.1.p		-	-
+Eucgr.E00210.1.p	0042197	0042197[S-adenosyl-L-methionine-dependent methyltransferases]	0042197[4.62e-24]
+Eucgr.E00219.1.p		-	-
+Eucgr.E00224.1.p		-	-
+Eucgr.E00229.1.p		-	-
+Eucgr.E00229.2.p		-	-
+Eucgr.E00241.1.p	0035371,0041848	0035371[Protein kinase-like (PK-like)]; 0041848[L domain-like]	0035371[4.1e-63]; 0041848[2.38e-59]
+Eucgr.E00246.1.p	0047429	0047429[Homeodomain-like]	0047429[1.79e-15]
+Eucgr.E00246.2.p	0047429	0047429[Homeodomain-like]	0047429[1.67e-15]
+Eucgr.E00250.1.p		-	-
+Eucgr.E00254.1.p	0047978	0047978[Phosphoenolpyruvate/pyruvate domain]	0047978[1.2e-07]
+Eucgr.E00257.1.p		-	-
+Eucgr.E00263.1.p	0047322	0047322[Glutathione synthetase ATP-binding domain-like]	0047322[3.26e-11]
+Eucgr.E00266.1.p		-	-
+Eucgr.E00266.2.p		-	-
+Eucgr.E00266.3.p		-	-
+Eucgr.E00273.1.p	0043065	0043065[HLH, helix-loop-helix DNA-binding domain]	0043065[2.36e-16]
+Eucgr.E00294.1.p	0048258	0048258[Barwin-like endoglucanases]	0048258[1.43e-13]
+Eucgr.E00299.1.p		-	-
+Eucgr.E00312.1.p	0048648,0050358,0054395	0048648[HCP-like]; 0050358[TPR-like]; 0054395[TPR-like]	0048648[2.88e-05]; 0050358[5.18e-07]; 0054395[0.00243]
+Eucgr.E00325.1.p	0039338	0039338[Trimeric LpxA-like enzymes]	0039338[0.00456]
+Eucgr.E00325.2.p	0039338	0039338[Trimeric LpxA-like enzymes]	0039338[0.00456]
+Eucgr.E00325.3.p	0039338	0039338[Trimeric LpxA-like enzymes]	0039338[0.00408]
+Eucgr.E00339.1.p		-	-
+Eucgr.E00367.1.p	0050581	0050581[PapD-like]	0050581[1.64e-36]
+Eucgr.E00374.1.p		-	-
+Eucgr.E00374.2.p		-	-
+Eucgr.E00374.3.p		-	-
+Eucgr.E00383.1.p	0046394,0047619,0048505,0053686	0046394[Outer arm dynein light chain 1]; 0047619[L domain-like]; 0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0046394[5.62e-05]; 0047619[1.09e-27]; 0048505[3.4e-47]; 0053686[2.35e-22]
+Eucgr.E00391.1.p	0053686	0053686[P-loop containing nucleoside triphosphate hydrolases]	0053686[4.08e-33]
+Eucgr.E00394.1.p	0037021	0037021[alpha/beta-Hydrolases]	0037021[6.39e-75]
+Eucgr.E00394.2.p	0037021	0037021[alpha/beta-Hydrolases]	0037021[1.06e-75]
+Eucgr.E00402.1.p		-	-
+Eucgr.E00402.2.p		-	-
+Eucgr.E00412.1.p		-	-
+Eucgr.E00416.1.p	0053355,0053354	0053355[Terpenoid synthases]; 0053354[Terpenoid cyclases/Protein prenyltransferases]	0053355[1.09e-41]; 0053354[9.94e-20]
+Eucgr.E00421.1.p		-	-
+Eucgr.E00425.1.p	0038225	0038225[Pectin lyase-like]	0038225[2.55e-84]
+Eucgr.E00437.1.p	0051010,0043074,0041848	0051010[L domain-like]; 0043074[Protein kinase-like (PK-like)]; 0041848[L domain-like]	0051010[1.7e-48]; 0043074[1.83e-49]; 0041848[1.7e-59]
+Eucgr.E00442.1.p	0035371,0048505,0041848	0035371[Protein kinase-like (PK-like)]; 0048505[L domain-like]; 0041848[L domain-like]	0035371[1.35e-70]; 0048505[1.47e-53]; 0041848[1.16e-56]
+Eucgr.E00444.1.p	0053356,0047277	0053356[NAD(P)-binding Rossmann-fold domains]; 0047277[LDH C-terminal domain-like]	0053356[3.7e-63]; 0047277[6.49e-53]
+Eucgr.E00449.1.p		-	-
+Eucgr.E00452.1.p		-	-
+Eucgr.E00454.1.p	0052963	0052963[FAD/NAD(P)-binding domain]	0052963[4.01e-50]
+Eucgr.E00462.1.p	0046658	0046658[Terpenoid synthases]	0046658[6.76e-50]
+Eucgr.E00469.1.p		-	-
+Eucgr.E00472.1.p	0045249	0045249[beta-beta-alpha zinc fingers]	0045249[4.82e-05]
+Eucgr.E00477.1.p		-	-
+Eucgr.E00477.2.p		-	-
+Eucgr.E00480.1.p	0044554	0044554[Formin homology 2 domain (FH2 domain)]	0044554[0.00133]
+Eucgr.E00486.1.p	0053051	0053051[AF0104/ALDC/Ptd012-like]	0053051[1.36e-32]
+Eucgr.E00496.1.p		-	-
+Eucgr.E00507.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[1.04e-53]
+Eucgr.E00514.1.p		-	-
+Eucgr.E00518.1.p	0052026	0052026[ARM repeat]	0052026[0.00896]
+Eucgr.E00526.1.p	0042480	0042480[MFS general substrate transporter]	0042480[3.66e-28]
+Eucgr.E00537.1.p	0036859	0036859[Cytochrome P450]	0036859[3.27e-93]
+Eucgr.E00540.1.p	0053209	0053209[Rhomboid-like]	0053209[7.72e-43]
+Eucgr.E00540.2.p	0053209	0053209[Rhomboid-like]	0053209[3.01e-40]
+Eucgr.E00541.1.p	0044514	0044514[NAC domain]	0044514[4.84e-27]
+Eucgr.E00546.1.p	0035371,0050924	0035371[Protein kinase-like (PK-like)]; 0050924[alpha-D-mannose-specific plant lectins]	0035371[7.58e-66]; 0050924[4.32e-18]
+Eucgr.E00549.1.p	0035371,0050924	0035371[Protein kinase-like (PK-like)]; 0050924[alpha-D-mannose-specific plant lectins]	0035371[9.41e-66]; 0050924[1.31e-24]
+Eucgr.E00554.1.p		-	-
+Eucgr.E00564.1.p		-	-
+Eucgr.E00581.1.p	0035371,0043409	0035371[Protein kinase-like (PK-like)]; 0043409[Acetyl-CoA synthetase-like]	0035371[8.63e-72]; 0043409[4.58e-71]
+Eucgr.E00596.1.p		-	-
+Eucgr.E00629.1.p	0047917,0045530	0047917[YVTN repeat-like/Quinoprotein amine dehydrogenase]; 0045530[POZ domain]	0047917[3.14e-14]; 0045530[8.83e-16]
+Eucgr.E00633.1.p	0050087	0050087[RING/U-box]	0050087[6.36e-17]
+Eucgr.E00645.1.p		-	-
+Eucgr.E00652.1.p	0054833	0054833[Protein kinase-like (PK-like)]	0054833[2.83e-97]
+Eucgr.E00652.2.p	0054833	0054833[Protein kinase-like (PK-like)]	0054833[6.07e-80]
+Eucgr.E00661.1.p		-	-
+Eucgr.E00662.1.p	0049047	0049047[HMA, heavy metal-associated domain]	0049047[6.38e-05]
+Eucgr.E00669.1.p		-	-
+Eucgr.E00678.1.p		-	-
+Eucgr.E00684.1.p	0053686	0053686[P-loop containing nucleoside triphosphate hydrolases]	0053686[2.56e-45]
+Eucgr.E00689.1.p		-	-
+Eucgr.E00710.1.p		-	-
+Eucgr.E00726.1.p		-	-
+Eucgr.E00730.1.p	0048505,0053686	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[8.39e-26]; 0053686[6.87e-64]
+Eucgr.E00747.1.p		-	-
+Eucgr.E00751.1.p		-	-
+Eucgr.E00758.1.p		-	-
+Eucgr.E00792.1.p	0051044	0051044[LEA14-like]	0051044[9.02e-06]
+Eucgr.E00796.1.p	0051044	0051044[LEA14-like]	0051044[0.00128]
+Eucgr.E00801.1.p	0051044	0051044[LEA14-like]	0051044[5.62e-06]
+Eucgr.E00805.1.p		-	-
+Eucgr.E00805.2.p		-	-
+Eucgr.E00805.3.p		-	-
+Eucgr.E00805.4.p		-	-
+Eucgr.E00805.5.p		-	-
+Eucgr.E00808.1.p		-	-
+Eucgr.E00815.1.p		-	-
+Eucgr.E00828.1.p	0053834	0053834[V-type ATPase subunit E-like]	0053834[6.67e-30]
+Eucgr.E00832.1.p	0035371,0041848	0035371[Protein kinase-like (PK-like)]; 0041848[L domain-like]	0035371[3.74e-55]; 0041848[2.65e-35]
+Eucgr.E00832.2.p	0035371,0041848	0035371[Protein kinase-like (PK-like)]; 0041848[L domain-like]	0035371[3.74e-55]; 0041848[2.65e-35]
+Eucgr.E00832.3.p	0035371,0041848	0035371[Protein kinase-like (PK-like)]; 0041848[L domain-like]	0035371[3.74e-55]; 0041848[2.65e-35]
+Eucgr.E00837.1.p		-	-
+Eucgr.E00841.1.p		-	-
+Eucgr.E00850.1.p	0050605	0050605[WRKY DNA-binding domain]	0050605[6.02e-26]
+Eucgr.E00850.2.p	0050605	0050605[WRKY DNA-binding domain]	0050605[3.79e-26]
+Eucgr.E00859.1.p	0052014	0052014[RNI-like]	0052014[5.1e-38]
+Eucgr.E00869.1.p		-	-
+Eucgr.E00870.1.p	0046390	0046390[PH domain-like]	0046390[9.48e-10]
+Eucgr.E00870.2.p	0046390	0046390[PH domain-like]	0046390[3.02e-11]
+Eucgr.E00870.3.p	0046390	0046390[PH domain-like]	0046390[2.93e-11]
+Eucgr.E00877.1.p	0047974	0047974[alpha/beta-Hydrolases]	0047974[1.38e-13]
+Eucgr.E00882.1.p	0042120,0054901	0042120[F-box domain]; 0054901[NTF2-like]	0042120[4.09e-15]; 0054901[4.24e-27]
+Eucgr.E00889.1.p		-	-
+Eucgr.E00895.1.p		-	-
+Eucgr.E00916.1.p		-	-
+Eucgr.E00918.1.p	0048505,0053686	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[5.33e-26]; 0053686[7.43e-10]
+Eucgr.E00921.1.p		-	-
+Eucgr.E01022.1.p	0050609	0050609[CAD & PB1 domains]	0050609[1.08e-22]
+Eucgr.E01025.1.p	0037148,0050739	0037148[Carbon-nitrogen hydrolase]; 0050739[Adenine nucleotide alpha hydrolases-like]	0037148[5.89e-43]; 0050739[2.79e-59]
+Eucgr.E01029.1.p	0048286	0048286[NAD(P)-binding Rossmann-fold domains]	0048286[9.49e-06]
+Eucgr.E01032.1.p		-	-
+Eucgr.E01042.1.p	0035101	0035101[HLH, helix-loop-helix DNA-binding domain]	0035101[7.98e-18]
+Eucgr.E01044.1.p	0038930	0038930[Ribosomal protein S18]	0038930[3.27e-15]
+Eucgr.E01051.1.p	0049473	0049473[Calcium ATPase, transmembrane domain M]	0049473[0.00327]
+Eucgr.E01052.1.p	0053574	0053574[Sec2 N-terminal region]	0053574[6.8e-05]
+Eucgr.E01056.1.p		-	-
+Eucgr.E01063.1.p	0036743,0046114	0036743[GroES-like]; 0046114[NAD(P)-binding Rossmann-fold domains]	0036743[8.07e-64]; 0046114[2.2e-43]
+Eucgr.E01066.1.p		-	-
+Eucgr.E01068.1.p	0048983	0048983[UDP-Glycosyltransferase/glycogen phosphorylase]	0048983[1.4e-116]
+Eucgr.E01068.2.p	0048983	0048983[UDP-Glycosyltransferase/glycogen phosphorylase]	0048983[1.4e-116]
+Eucgr.E01068.3.p	0048983	0048983[UDP-Glycosyltransferase/glycogen phosphorylase]	0048983[1.4e-116]
+Eucgr.E01068.4.p	0048983	0048983[UDP-Glycosyltransferase/glycogen phosphorylase]	0048983[1.4e-116]
+Eucgr.E01092.1.p	0047910,0040327	0047910["Winged helix" DNA-binding domain]; 0040327[S-adenosyl-L-methionine-dependent methyltransferases]	0047910[1.36e-23]; 0040327[1.36e-57]
+Eucgr.E01092.2.p	0046837,0040327	0046837["Winged helix" DNA-binding domain]; 0040327[S-adenosyl-L-methionine-dependent methyltransferases]	0046837[1.74e-13]; 0040327[1.23e-52]
+Eucgr.E01110.1.p	0048863,0050001	0048863[NAD(P)-binding Rossmann-fold domains]; 0050001[GroES-like]	0048863[7.02e-35]; 0050001[2.2e-46]
+Eucgr.E01110.2.p	0048863,0050001	0048863[NAD(P)-binding Rossmann-fold domains]; 0050001[GroES-like]	0048863[7.02e-35]; 0050001[2.2e-46]
+Eucgr.E01120.1.p	0051542	0051542[NAD(P)-binding Rossmann-fold domains]	0051542[8e-43]
+Eucgr.E01131.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[6.47e-61]
+Eucgr.E01143.1.p		-	-
+Eucgr.E01148.1.p	0043269	0043269[Protein kinase-like (PK-like)]	0043269[8.23e-62]
+Eucgr.E01151.1.p	0038302	0038302[ARM repeat]	0038302[4.11e-85]
+Eucgr.E01151.2.p	0038302	0038302[ARM repeat]	0038302[4.11e-85]
+Eucgr.E01154.1.p		-	-
+Eucgr.E01154.2.p		-	-
+Eucgr.E01167.1.p	0042676	0042676[CoA-dependent acyltransferases]	0042676[0.00345]
+Eucgr.E01172.1.p	0053131	0053131[UDP-Glycosyltransferase/glycogen phosphorylase]	0053131[3.93e-62]
+Eucgr.E01188.1.p	0046053	0046053[Actin-like ATPase domain]	0046053[1.14e-31]
+Eucgr.E01203.1.p		-	-
+Eucgr.E01230.1.p		-	-
+Eucgr.E01231.1.p		-	-
+Eucgr.E01244.1.p	0053693	0053693[UDP-Glycosyltransferase/glycogen phosphorylase]	0053693[6.85e-85]
+Eucgr.E01249.1.p		-	-
+Eucgr.E01249.2.p		-	-
+Eucgr.E01249.3.p		-	-
+Eucgr.E01249.4.p		-	-
+Eucgr.E01252.1.p	0039935	0039935[NAD(P)-binding Rossmann-fold domains]	0039935[8.49e-61]
+Eucgr.E01264.1.p	0048059	0048059[L domain-like]	0048059[0.000187]
+Eucgr.E01271.1.p	0048505	0048505[L domain-like]	0048505[7.99e-31]
+Eucgr.E01283.1.p		-	-
+Eucgr.E01318.1.p	0054424	0054424[WD40 repeat-like]	0054424[1.19e-14]
+Eucgr.E01322.1.p	0037384	0037384[P-loop containing nucleoside triphosphate hydrolases]	0037384[9.85e-52]
+Eucgr.E01335.1.p	0038020	0038020[Nucleotide-diphospho-sugar transferases]	0038020[2.56e-70]
+Eucgr.E01335.2.p	0038020	0038020[Nucleotide-diphospho-sugar transferases]	0038020[2.56e-70]
+Eucgr.E01339.1.p	0051306,0038057	0051306[Formate/glycerate dehydrogenase catalytic domain-like]; 0038057[NAD(P)-binding Rossmann-fold domains]	0051306[1.79e-22]; 0038057[1.01e-48]
+Eucgr.E01342.1.p	0038057	0038057[NAD(P)-binding Rossmann-fold domains]	0038057[8.82e-50]
+Eucgr.E01349.1.p	0051306,0038057	0051306[Formate/glycerate dehydrogenase catalytic domain-like]; 0038057[NAD(P)-binding Rossmann-fold domains]	0051306[5.1e-22]; 0038057[9.67e-46]
+Eucgr.E01352.1.p	0047761,0049561,0040941	0047761[WD40 repeat-like]; 0049561[PH domain-like]; 0040941[BEACH domain]	0047761[6.92e-26]; 0049561[1.35e-22]; 0040941[1.44e-125]
+Eucgr.E01352.2.p	0047761,0049561,0040941	0047761[WD40 repeat-like]; 0049561[PH domain-like]; 0040941[BEACH domain]	0047761[6.92e-26]; 0049561[1.35e-22]; 0040941[1.44e-125]
+Eucgr.E01352.3.p	0048921,0049561,0049560	0048921[ARM repeat]; 0049561[PH domain-like]; 0049560[BEACH domain]	0048921[0.00719]; 0049561[9.22e-23]; 0049560[7.98e-32]
+Eucgr.E01361.1.p	0044092	0044092[Cytochrome P450]	0044092[4.98e-102]
+Eucgr.E01373.1.p		-	-
+Eucgr.E01374.1.p	0047619,0048505,0041848	0047619[L domain-like]; 0048505[L domain-like]; 0041848[L domain-like]	0047619[1.09e-50]; 0048505[3.74e-36]; 0041848[3.4e-55]
+Eucgr.E01385.1.p	0049235	0049235[Osmotin, thaumatin-like protein]	0049235[2.22e-71]
+Eucgr.E01396.1.p		-	-
+Eucgr.E01404.1.p	0054586	0054586[Ribosomal protein S3 C-terminal domain]	0054586[1.06e-22]
+Eucgr.E01416.1.p	0043422	0043422[N-terminal nucleophile aminohydrolases (Ntn hydrolases)]	0043422[2.85e-54]
+Eucgr.E01416.2.p	0039156	0039156[N-terminal nucleophile aminohydrolases (Ntn hydrolases)]	0039156[1.11e-25]
+Eucgr.E01424.1.p	0041050	0041050[Sec1/munc18-like (SM) proteins]	0041050[8.24e-141]
+Eucgr.E01427.1.p	0051183	0051183[NAD(P)-binding Rossmann-fold domains]	0051183[4.45e-38]
+Eucgr.E01452.1.p	0049184	0049184[Plant invertase/pectin methylesterase inhibitor]	0049184[2.62e-21]
+Eucgr.E01468.1.p	0038225,0050874	0038225[Pectin lyase-like]; 0050874[Plant invertase/pectin methylesterase inhibitor]	0038225[4.71e-109]; 0050874[1.11e-31]
+Eucgr.E01474.1.p	0035973	0035973[HMG-box]	0035973[4.32e-08]
+Eucgr.E01474.2.p	0035973	0035973[HMG-box]	0035973[3.91e-06]
+Eucgr.E01488.1.p		-	-
+Eucgr.E01491.1.p		-	-
+Eucgr.E01501.1.p	0053822	0053822[B-box zinc-binding domain]	0053822[3.89e-05]
+Eucgr.E01515.1.p		-	-
+Eucgr.E01518.1.p		-	-
+Eucgr.E01545.1.p		-	-
+Eucgr.E01545.2.p		-	-
+Eucgr.E01562.1.p	0054538	0054538[UDP-Glycosyltransferase/glycogen phosphorylase]	0054538[2.42e-130]
+Eucgr.E01575.1.p		-	-
+Eucgr.E01594.1.p		-	-
+Eucgr.E01601.1.p		-	-
+Eucgr.E01609.1.p		-	-
+Eucgr.E01612.1.p		-	-
+Eucgr.E01626.1.p	0048258,0041176	0048258[Barwin-like endoglucanases]; 0041176[PHL pollen allergen]	0048258[1.08e-24]; 0041176[6.41e-26]
+Eucgr.E01627.1.p		-	-
+Eucgr.E01631.1.p	0047806,0050461,0051994	0047806[Eukaryotic type KH-domain (KH-domain type I)]; 0050461[Eukaryotic type KH-domain (KH-domain type I)]; 0051994[Eukaryotic type KH-domain (KH-domain type I)]	0047806[1.23e-14]; 0050461[8.62e-16]; 0051994[4.25e-13]
+Eucgr.E01631.2.p	0047806,0050461,0051994	0047806[Eukaryotic type KH-domain (KH-domain type I)]; 0050461[Eukaryotic type KH-domain (KH-domain type I)]; 0051994[Eukaryotic type KH-domain (KH-domain type I)]	0047806[1.46e-14]; 0050461[8.47e-16]; 0051994[5.01e-13]
+Eucgr.E01638.1.p		-	-
+Eucgr.E01662.1.p	0049359	0049359[Caspase-like]	0049359[5.02e-05]
+Eucgr.E01662.2.p	0049359	0049359[Caspase-like]	0049359[4.71e-05]
+Eucgr.E01664.1.p	0051485,0051486	0051485[P-loop containing nucleoside triphosphate hydrolases]; 0051486[P-loop containing nucleoside triphosphate hydrolases]	0051485[8.13e-44]; 0051486[3.55e-31]
+Eucgr.E01680.1.p	0036818	0036818[Epsilon subunit of F1F0-ATP synthase N-terminal domain]	0036818[5.75e-15]
+Eucgr.E01684.1.p	0048640,0049473	0048640[Ankyrin repeat]; 0049473[Calcium ATPase, transmembrane domain M]	0048640[0.000119]; 0049473[0.00418]
+Eucgr.E01696.1.p		-	-
+Eucgr.E01697.1.p	0036818	0036818[Epsilon subunit of F1F0-ATP synthase N-terminal domain]	0036818[8.24e-20]
+Eucgr.E01722.1.p	0046350,0035468	0046350[PRTase-like]; 0035468[PRTase-like]	0046350[0.00799]; 0035468[2.97e-61]
+Eucgr.E01722.2.p	0051755,0036475	0051755[PRTase-like]; 0036475[PRTase-like]	0051755[5.26e-37]; 0036475[4.9e-52]
+Eucgr.E01726.1.p	0042471	0042471[P-loop containing nucleoside triphosphate hydrolases]	0042471[8.91e-28]
+Eucgr.E01731.1.p	0052608	0052608[ClpP/crotonase]	0052608[1.04e-33]
+Eucgr.E01739.1.p	0050444	0050444[ClpP/crotonase]	0050444[1.12e-57]
+Eucgr.E01740.1.p	0050444	0050444[ClpP/crotonase]	0050444[2.89e-61]
+Eucgr.E01740.2.p	0050444	0050444[ClpP/crotonase]	0050444[2.25e-58]
+Eucgr.E01758.1.p	0043898	0043898[Acid proteases]	0043898[1.15e-90]
+Eucgr.E01762.1.p		-	-
+Eucgr.E01772.1.p		-	-
+Eucgr.E01777.1.p		-	-
+Eucgr.E01779.1.p	0037066	0037066[EF-hand]	0037066[4.53e-13]
+Eucgr.E01789.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[6.74e-82]
+Eucgr.E01799.1.p	0046888	0046888[Toll/Interleukin receptor TIR domain]	0046888[1.7e-32]
+Eucgr.E01803.1.p	0045974,0046888,0053686	0045974["Winged helix" DNA-binding domain]; 0046888[Toll/Interleukin receptor TIR domain]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[1.99e-07]; 0046888[3.66e-30]; 0053686[2.61e-56]
+Eucgr.E01819.1.p		-	-
+Eucgr.E01824.1.p		-	-
+Eucgr.E01863.1.p	0045974,0046888,0047132,0053686,0041848	0045974["Winged helix" DNA-binding domain]; 0046888[Toll/Interleukin receptor TIR domain]; 0047132[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]; 0041848[L domain-like]	0045974[4.9e-08]; 0046888[3.27e-32]; 0047132[1.47e-12]; 0053686[2.5e-58]; 0041848[5.44e-32]
+Eucgr.E01869.1.p	0046690	0046690[Profilin (actin-binding protein)]	0046690[0.00053]
+Eucgr.E01871.1.p	0048505	0048505[L domain-like]	0048505[3.4e-29]
+Eucgr.E01871.2.p	0048505	0048505[L domain-like]	0048505[2.72e-29]
+Eucgr.E01874.1.p	0035412,0036940	0035412[GST C-terminal domain-like]; 0036940[Thioredoxin-like]	0035412[1.67e-31]; 0036940[2.04e-11]
+Eucgr.E01874.2.p	0039829,0036940	0039829[GST C-terminal domain-like]; 0036940[Thioredoxin-like]	0039829[6.13e-19]; 0036940[1.17e-11]
+Eucgr.E01883.1.p		-	-
+Eucgr.E01884.1.p	0052372	0052372[Cullin repeat-like]	0052372[7.32e-39]
+Eucgr.E01891.1.p		-	-
+Eucgr.E01904.1.p		-	-
+Eucgr.E01907.1.p		-	-
+Eucgr.E01919.1.p	0035558,0038477,0040112	0035558[Hairpin loop containing domain-like]; 0038477[Protein kinase-like (PK-like)]; 0040112[alpha-D-mannose-specific plant lectins]	0035558[0.0011]; 0038477[6.56e-72]; 0040112[1.44e-24]
+Eucgr.E01932.1.p		-	-
+Eucgr.E01947.1.p	0050582	0050582[DNA-binding pseudobarrel domain]	0050582[5.1e-17]
+Eucgr.E01956.1.p		-	-
+Eucgr.E01963.1.p	0049805	0049805[Retrovirus zinc finger-like domains]	0049805[9.42e-05]
+Eucgr.E01963.2.p	0049805	0049805[Retrovirus zinc finger-like domains]	0049805[9.42e-05]
+Eucgr.E01982.1.p	0037832	0037832[Prefoldin]	0037832[3.92e-20]
+Eucgr.E01982.2.p	0037832	0037832[Prefoldin]	0037832[1.28e-16]
+Eucgr.E01982.3.p	0037832	0037832[Prefoldin]	0037832[2.49e-17]
+Eucgr.E01998.1.p	0048505,0053686,0042103,0046888	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]; 0042103[L domain-like]; 0046888[Toll/Interleukin receptor TIR domain]	0048505[5.61e-46]; 0053686[1.59e-51]; 0042103[8.84e-26]; 0046888[3.14e-32]
+Eucgr.E02009.1.p	0044984,0044985,0042094	0044984[Cdc48 domain 2-like]; 0044985[ADC-like]; 0042094[P-loop containing nucleoside triphosphate hydrolases]	0044984[5.23e-20]; 0044985[9.69e-06]; 0042094[2.41e-61]
+Eucgr.E02010.1.p		-	-
+Eucgr.E02010.2.p		-	-
+Eucgr.E02022.1.p		-	-
+Eucgr.E02026.1.p	0043898	0043898[Acid proteases]	0043898[4.54e-73]
+Eucgr.E02040.1.p	0045746,0051010,0052014	0045746[L domain-like]; 0051010[L domain-like]; 0052014[RNI-like]	0045746[1.05e-13]; 0051010[8.5e-48]; 0052014[6.75e-49]
+Eucgr.E02053.1.p	0050582	0050582[DNA-binding pseudobarrel domain]	0050582[2.75e-15]
+Eucgr.E02057.1.p	0050582	0050582[DNA-binding pseudobarrel domain]	0050582[2.16e-15]
+Eucgr.E02066.1.p		-	-
+Eucgr.E02070.1.p		-	-
+Eucgr.E02079.1.p	0047027	0047027[Clavaminate synthase-like]	0047027[6.73e-63]
+Eucgr.E02081.1.p		-	-
+Eucgr.E02125.1.p	0048183	0048183[SET domain]	0048183[9.03e-56]
+Eucgr.E02141.1.p	0045974,0046888,0053686	0045974["Winged helix" DNA-binding domain]; 0046888[Toll/Interleukin receptor TIR domain]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[1.41e-13]; 0046888[9.02e-37]; 0053686[1.5e-63]
+Eucgr.E02143.1.p	0045974,0048505,0053686	0045974["Winged helix" DNA-binding domain]; 0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[1.41e-16]; 0048505[1.93e-49]; 0053686[8.15e-57]
+Eucgr.E02191.1.p	0046888,0047619,0053686	0046888[Toll/Interleukin receptor TIR domain]; 0047619[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0046888[2.35e-19]; 0047619[1.51e-43]; 0053686[1.27e-56]
+Eucgr.E02194.1.p	0050397,0037738,0052014	0050397[L domain-like]; 0037738[RNI-like]; 0052014[RNI-like]	0050397[9.72e-21]; 0037738[3.53e-32]; 0052014[4.87e-50]
+Eucgr.E02205.1.p		-	-
+Eucgr.E02247.1.p	0047619	0047619[L domain-like]	0047619[8.42e-25]
+Eucgr.E02253.1.p		-	-
+Eucgr.E02277.1.p		-	-
+Eucgr.E02282.1.p	0045974,0046888,0053686,0047132	0045974["Winged helix" DNA-binding domain]; 0046888[Toll/Interleukin receptor TIR domain]; 0053686[P-loop containing nucleoside triphosphate hydrolases]; 0047132[L domain-like]	0045974[7.62e-16]; 0046888[5.36e-07]; 0053686[4.82e-60]; 0047132[0.00068]
+Eucgr.E02289.1.p		-	-
+Eucgr.E02314.1.p	0045974,0046888,0047619,0053686	0045974["Winged helix" DNA-binding domain]; 0046888[Toll/Interleukin receptor TIR domain]; 0047619[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[7.07e-15]; 0046888[2.49e-21]; 0047619[2.27e-35]; 0053686[6.32e-59]
+Eucgr.E02320.1.p		-	-
+Eucgr.E02325.1.p	0039367	0039367[Aquaporin-like]	0039367[5.36e-71]
+Eucgr.E02331.1.p		-	-
+Eucgr.E02337.1.p		-	-
+Eucgr.E02363.1.p	0049243	0049243[PCD-like]	0049243[6.02e-28]
+Eucgr.E02363.2.p	0049243	0049243[PCD-like]	0049243[1.83e-28]
+Eucgr.E02363.3.p	0049243	0049243[PCD-like]	0049243[1.83e-28]
+Eucgr.E02363.4.p	0049243	0049243[PCD-like]	0049243[7.46e-28]
+Eucgr.E02371.1.p	0041927	0041927[Protein kinase-like (PK-like)]	0041927[2.35e-34]
+Eucgr.E02376.1.p	0046209	0046209[Cysteine proteinases]	0046209[4.47e-107]
+Eucgr.E02380.1.p		-	-
+Eucgr.E02380.2.p		-	-
+Eucgr.E02387.1.p		-	-
+Eucgr.E02395.1.p		-	-
+Eucgr.E02421.1.p		-	-
+Eucgr.E02428.1.p		-	-
+Eucgr.E02443.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[1.62e-62]
+Eucgr.E02448.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[1.35e-78]
+Eucgr.E02448.2.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[7.82e-79]
+Eucgr.E02460.1.p	0050397,0041848	0050397[L domain-like]; 0041848[L domain-like]	0050397[4.82e-08]; 0041848[1.58e-52]
+Eucgr.E02463.1.p	0053562	0053562[Myosin rod fragments]	0053562[0.00785]
+Eucgr.E02467.1.p	0054423,0037738	0054423[F-box domain]; 0037738[RNI-like]	0054423[9.81e-12]; 0037738[1.51e-20]
+Eucgr.E02473.1.p	0035157	0035157[Protein kinase-like (PK-like)]	0035157[2.53e-77]
+Eucgr.E02478.1.p	0052242,0054424	0052242[CCCH zinc finger]; 0054424[WD40 repeat-like]	0052242[3.66e-07]; 0054424[3.66e-47]
+Eucgr.E02482.1.p	0046394	0046394[Outer arm dynein light chain 1]	0046394[1.57e-26]
+Eucgr.E02482.2.p	0046394	0046394[Outer arm dynein light chain 1]	0046394[1.57e-26]
+Eucgr.E02482.3.p	0046394	0046394[Outer arm dynein light chain 1]	0046394[1.57e-26]
+Eucgr.E02482.4.p	0046394	0046394[Outer arm dynein light chain 1]	0046394[1.57e-26]
+Eucgr.E02482.5.p	0046394	0046394[Outer arm dynein light chain 1]	0046394[1.57e-26]
+Eucgr.E02482.6.p	0046394	0046394[Outer arm dynein light chain 1]	0046394[1.44e-26]
+Eucgr.E02492.1.p	0043785	0043785[Glycolipid transfer protein, GLTP]	0043785[2.09e-44]
+Eucgr.E02499.1.p	0049131	0049131[Typo IV secretion system protein TraC]	0049131[0.00484]
+Eucgr.E02519.1.p	0035203	0035203[CRAL/TRIO domain]	0035203[0.00051]
+Eucgr.E02523.1.p	0048505	0048505[L domain-like]	0048505[2.72e-23]
+Eucgr.E02530.1.p	0052851	0052851[Cytidine deaminase-like]	0052851[1.91e-20]
+Eucgr.E02530.2.p	0052851	0052851[Cytidine deaminase-like]	0052851[1.87e-17]
+Eucgr.E02566.1.p		-	-
+Eucgr.E02566.2.p		-	-
+Eucgr.E02588.1.p	0046888,0053686,0048505	0046888[Toll/Interleukin receptor TIR domain]; 0053686[P-loop containing nucleoside triphosphate hydrolases]; 0048505[L domain-like]	0046888[1.44e-38]; 0053686[5.67e-60]; 0048505[1.02e-27]
+Eucgr.E02595.1.p	0046888	0046888[Toll/Interleukin receptor TIR domain]	0046888[1.96e-27]
+Eucgr.E02597.1.p		-	-
+Eucgr.E02609.1.p	0052629	0052629[ClpP/crotonase]	0052629[1.53e-27]
+Eucgr.E02644.1.p	0047619	0047619[L domain-like]	0047619[1.26e-09]
+Eucgr.E02649.1.p	0045974,0046888,0047619,0053686	0045974["Winged helix" DNA-binding domain]; 0046888[Toll/Interleukin receptor TIR domain]; 0047619[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[7.34e-15]; 0046888[6.67e-41]; 0047619[5.78e-40]; 0053686[1.89e-56]
+Eucgr.E02652.1.p	0038039	0038039[DNA-binding domain]	0038039[7.19e-24]
+Eucgr.E02665.1.p	0039372	0039372[EF-hand]	0039372[2.88e-10]
+Eucgr.E02693.1.p		-	-
+Eucgr.E02712.1.p		-	-
+Eucgr.E02728.1.p	0053371	0053371[Cysteine proteinases]	0053371[1.49e-98]
+Eucgr.E02742.1.p	0048956	0048956[P-loop containing nucleoside triphosphate hydrolases]	0048956[3.09e-62]
+Eucgr.E02742.2.p	0048956	0048956[P-loop containing nucleoside triphosphate hydrolases]	0048956[6.83e-60]
+Eucgr.E02751.1.p	0037812,0046209,0044554	0037812[Granulin repeat]; 0046209[Cysteine proteinases]; 0044554[Formin homology 2 domain (FH2 domain)]	0037812[9.81e-10]; 0046209[3.39e-100]; 0044554[6.28e-06]
+Eucgr.E02751.2.p	0037812,0046209,0044554	0037812[Granulin repeat]; 0046209[Cysteine proteinases]; 0044554[Formin homology 2 domain (FH2 domain)]	0037812[9.81e-10]; 0046209[1.42e-99]; 0044554[6.28e-06]
+Eucgr.E02754.1.p	0047429	0047429[Homeodomain-like]	0047429[1.11e-13]
+Eucgr.E02762.1.p		-	-
+Eucgr.E02762.2.p		-	-
+Eucgr.E02762.3.p		-	-
+Eucgr.E02762.4.p		-	-
+Eucgr.E02774.1.p		-	-
+Eucgr.E02782.1.p		-	-
+Eucgr.E02785.1.p	0043042,0050025	0043042[NAD(P)-binding Rossmann-fold domains]; 0050025[Galactose-binding domain-like]	0043042[1.12e-30]; 0050025[5.1e-31]
+Eucgr.E02785.2.p	0043042,0050025	0043042[NAD(P)-binding Rossmann-fold domains]; 0050025[Galactose-binding domain-like]	0043042[1.12e-30]; 0050025[5.1e-31]
+Eucgr.E02785.3.p	0050025,0043041	0050025[Galactose-binding domain-like]; 0043041[NAD(P)-binding Rossmann-fold domains]	0050025[3.49e-31]; 0043041[3.49e-19]
+Eucgr.E02785.4.p	0043042,0050025	0043042[NAD(P)-binding Rossmann-fold domains]; 0050025[Galactose-binding domain-like]	0043042[1.79e-14]; 0050025[2.81e-31]
+Eucgr.E02796.1.p		-	-
+Eucgr.E02798.1.p	0045889	0045889[Homeodomain-like]	0045889[4.6e-19]
+Eucgr.E02802.1.p		-	-
+Eucgr.E02826.1.p	0052242,0048349	0052242[CCCH zinc finger]; 0048349[WD40 repeat-like]	0052242[2.62e-07]; 0048349[1.04e-42]
+Eucgr.E02828.1.p	0052242,0054424	0052242[CCCH zinc finger]; 0054424[WD40 repeat-like]	0052242[2.49e-07]; 0054424[2.66e-43]
+Eucgr.E02833.1.p	0054424	0054424[WD40 repeat-like]	0054424[1.05e-19]
+Eucgr.E02835.1.p	0052242,0054424	0052242[CCCH zinc finger]; 0054424[WD40 repeat-like]	0052242[2.75e-07]; 0054424[5.4e-49]
+Eucgr.E02863.1.p	0041235	0041235[SRF-like]	0041235[1.18e-32]
+Eucgr.E02863.2.p	0041235	0041235[SRF-like]	0041235[1.18e-32]
+Eucgr.E02863.3.p	0041235	0041235[SRF-like]	0041235[1.18e-32]
+Eucgr.E02881.1.p	0047027	0047027[Clavaminate synthase-like]	0047027[1.99e-101]
+Eucgr.E02892.1.p	0047027	0047027[Clavaminate synthase-like]	0047027[3.5e-101]
+Eucgr.E02899.1.p	0047027	0047027[Clavaminate synthase-like]	0047027[6.87e-103]
+Eucgr.E02903.1.p	0047027	0047027[Clavaminate synthase-like]	0047027[1.03e-102]
+Eucgr.E02918.1.p		-	-
+Eucgr.E02925.1.p		-	-
+Eucgr.E02934.1.p		-	-
+Eucgr.E02947.1.p		-	-
+Eucgr.E02978.1.p	0053693	0053693[UDP-Glycosyltransferase/glycogen phosphorylase]	0053693[1.21e-59]
+Eucgr.E02992.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[2e-81]
+Eucgr.E03005.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[1.08e-70]
+Eucgr.E03019.1.p	0037803	0037803[Protein kinase-like (PK-like)]	0037803[1.08e-60]
+Eucgr.E03032.1.p		-	-
+Eucgr.E03046.1.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[1.78e-79]
+Eucgr.E03056.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[1.89e-81]
+Eucgr.E03069.1.p	0048505,0047665	0048505[L domain-like]; 0047665[P-loop containing nucleoside triphosphate hydrolases]	0048505[5.61e-41]; 0047665[2.84e-05]
+Eucgr.E03077.1.p	0045974,0046888,0047619,0053686	0045974["Winged helix" DNA-binding domain]; 0046888[Toll/Interleukin receptor TIR domain]; 0047619[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[1.41e-16]; 0046888[5.1e-40]; 0047619[2.21e-35]; 0053686[1.78e-59]
+Eucgr.E03091.1.p	0048505	0048505[L domain-like]	0048505[4.93e-41]
+Eucgr.E03092.1.p	0046888,0053686	0046888[Toll/Interleukin receptor TIR domain]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0046888[8.37e-41]; 0053686[2.58e-62]
+Eucgr.E03115.1.p	0048261,0053354	0048261[Terpenoid synthases]; 0053354[Terpenoid cyclases/Protein prenyltransferases]	0048261[5.47e-110]; 0053354[3.3e-64]
+Eucgr.E03122.1.p	0035371,0035558,0040112	0035371[Protein kinase-like (PK-like)]; 0035558[Hairpin loop containing domain-like]; 0040112[alpha-D-mannose-specific plant lectins]	0035371[9.29e-67]; 0035558[0.00298]; 0040112[2.09e-28]
+Eucgr.E03146.1.p	0047910,0040327	0047910["Winged helix" DNA-binding domain]; 0040327[S-adenosyl-L-methionine-dependent methyltransferases]	0047910[6.53e-22]; 0040327[1.08e-39]
+Eucgr.E03159.1.p		-	-
+Eucgr.E03161.1.p	0049318	0049318[Periplasmic binding protein-like II]	0049318[1.41e-19]
+Eucgr.E03167.1.p	0038039	0038039[DNA-binding domain]	0038039[7.19e-24]
+Eucgr.E03176.1.p		-	-
+Eucgr.E03204.1.p	0045974,0046888,0053686	0045974["Winged helix" DNA-binding domain]; 0046888[Toll/Interleukin receptor TIR domain]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[0.00163]; 0046888[3.01e-25]; 0053686[4.14e-39]
+Eucgr.E03209.1.p	0046839,0040327	0046839["Winged helix" DNA-binding domain]; 0040327[S-adenosyl-L-methionine-dependent methyltransferases]	0046839[6.35e-27]; 0040327[1.61e-05]
+Eucgr.E03212.1.p	0040327,0046839	0040327[S-adenosyl-L-methionine-dependent methyltransferases]; 0046839["Winged helix" DNA-binding domain]	0040327[5.23e-53]; 0046839[1.26e-26]
+Eucgr.E03223.1.p		-	-
+Eucgr.E03231.1.p	0053693	0053693[UDP-Glycosyltransferase/glycogen phosphorylase]	0053693[1.47e-97]
+Eucgr.E03235.1.p	0053693	0053693[UDP-Glycosyltransferase/glycogen phosphorylase]	0053693[5.23e-100]
+Eucgr.E03256.1.p		-	-
+Eucgr.E03261.1.p		-	-
+Eucgr.E03273.1.p	0044223,0043065	0044223[ACT-like]; 0043065[HLH, helix-loop-helix DNA-binding domain]	0044223[0.000275]; 0043065[2.75e-07]
+Eucgr.E03282.1.p	0045974,0050521,0047619,0053686	0045974["Winged helix" DNA-binding domain]; 0050521[CSL zinc finger]; 0047619[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[9.52e-11]; 0050521[0.00968]; 0047619[3.74e-42]; 0053686[1.8e-56]
+Eucgr.E03300.1.p	0035371,0045804	0035371[Protein kinase-like (PK-like)]; 0045804[EGF/Laminin]	0035371[6.07e-54]; 0045804[9.43e-05]
+Eucgr.E03306.1.p		-	-
+Eucgr.E03310.1.p	0051642,0054395	0051642[TPR-like]; 0054395[TPR-like]	0051642[3.4e-06]; 0054395[0.000209]
+Eucgr.E03330.1.p	0048505,0053686	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[8.25e-50]; 0053686[3.34e-39]
+Eucgr.E03348.1.p	0051810,0052542	0051810[PUA domain-like]; 0052542[Pseudouridine synthase]	0051810[1.99e-23]; 0052542[1.06e-69]
+Eucgr.E03352.1.p	0046912	0046912[ARM repeat]	0046912[3.6e-07]
+Eucgr.E03363.1.p	0052715	0052715[Kelch motif]	0052715[2.88e-46]
+Eucgr.E03370.1.p		-	-
+Eucgr.E03370.2.p		-	-
+Eucgr.E03370.3.p		-	-
+Eucgr.E03386.1.p		-	-
+Eucgr.E03405.1.p	0048865,0046750	0048865[FAD/NAD(P)-binding domain]; 0046750[FAD/NAD(P)-binding domain]	0048865[1.56e-15]; 0046750[1.08e-07]
+Eucgr.E03413.1.p	0053371	0053371[Cysteine proteinases]	0053371[3.6e-99]
+Eucgr.E03418.1.p	0054879	0054879[FAD/NAD(P)-binding domain]	0054879[1.41e-53]
+Eucgr.E03425.1.p	0036355	0036355[ArfGap/RecO-like zinc finger]	0036355[0.00112]
+Eucgr.E03427.1.p	0037738	0037738[RNI-like]	0037738[1.26e-09]
+Eucgr.E03433.1.p	0053605,0037738,0041352	0053605[Kix domain of CBP (creb binding protein)]; 0037738[RNI-like]; 0041352[F-box domain]	0053605[4.71e-05]; 0037738[6.28e-08]; 0041352[1.57e-13]
+Eucgr.E03451.1.p		-	-
+Eucgr.E03463.1.p		-	-
+Eucgr.E03469.1.p		-	-
+Eucgr.E03559.1.p		-	-
+Eucgr.E03560.1.p		-	-
+Eucgr.E03567.1.p		-	-
+Eucgr.E03579.1.p	0052291,0050592	0052291[RING/U-box]; 0050592[RING/U-box]	0052291[2.35e-15]; 0050592[4.32e-13]
+Eucgr.E03588.1.p		-	-
+Eucgr.E03592.1.p	0053562,0045383	0053562[Myosin rod fragments]; 0045383[P-loop containing nucleoside triphosphate hydrolases]	0053562[0.000445]; 0045383[9.66e-116]
+Eucgr.E03593.1.p		-	-
+Eucgr.E03599.1.p		-	-
+Eucgr.E03602.1.p	0053354	0053354[Terpenoid cyclases/Protein prenyltransferases]	0053354[1.33e-14]
+Eucgr.E03611.1.p	0048648	0048648[HCP-like]	0048648[0.0012]
+Eucgr.E03621.1.p	0035558,0038477,0040112	0035558[Hairpin loop containing domain-like]; 0038477[Protein kinase-like (PK-like)]; 0040112[alpha-D-mannose-specific plant lectins]	0035558[0.000471]; 0038477[5.66e-84]; 0040112[6.94e-32]
+Eucgr.E03636.1.p		-	-
+Eucgr.E03639.1.p	0038477,0040112	0038477[Protein kinase-like (PK-like)]; 0040112[alpha-D-mannose-specific plant lectins]	0038477[9.16e-81]; 0040112[6.02e-30]
+Eucgr.E03645.1.p	0035371,0040112	0035371[Protein kinase-like (PK-like)]; 0040112[alpha-D-mannose-specific plant lectins]	0035371[1.48e-47]; 0040112[8.38e-28]
+Eucgr.E03660.1.p	0040727,0035558	0040727[Protein kinase-like (PK-like)]; 0035558[Hairpin loop containing domain-like]	0040727[2.32e-43]; 0035558[1.73e-05]
+Eucgr.E03669.1.p	0035558,0038477,0040112	0035558[Hairpin loop containing domain-like]; 0038477[Protein kinase-like (PK-like)]; 0040112[alpha-D-mannose-specific plant lectins]	0035558[0.000471]; 0038477[6.61e-80]; 0040112[9.55e-25]
+Eucgr.E03684.1.p	0054912	0054912[Cytochrome P450]	0054912[7.73e-87]
+Eucgr.E03684.2.p	0054912	0054912[Cytochrome P450]	0054912[3.01e-82]
+Eucgr.E03691.1.p	0036696	0036696[LysM domain]	0036696[1.83e-07]
+Eucgr.E03732.1.p	0040727	0040727[Protein kinase-like (PK-like)]	0040727[1.64e-33]
+Eucgr.E03739.1.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[3.91e-85]
+Eucgr.E03740.1.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[8.34e-62]
+Eucgr.E03744.1.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[3.55e-84]
+Eucgr.E03744.2.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[3.55e-84]
+Eucgr.E03744.3.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[2.32e-83]
+Eucgr.E03793.1.p	0051364	0051364[Nucleotide-diphospho-sugar transferases]	0051364[1.57e-40]
+Eucgr.E03798.1.p	0047756,0051761	0047756[P-loop containing nucleoside triphosphate hydrolases]; 0051761[Concanavalin A-like lectins/glucanases]	0047756[6.22e-11]; 0051761[1.03e-16]
+Eucgr.E03807.1.p	0050960,0037987,0046750	0050960[FAD/NAD(P)-binding domain]; 0037987[EF-hand]; 0046750[FAD/NAD(P)-binding domain]	0050960[2.05e-17]; 0037987[4.71e-06]; 0046750[6.73e-29]
+Eucgr.E03807.2.p	0050960,0037987,0046750	0050960[FAD/NAD(P)-binding domain]; 0037987[EF-hand]; 0046750[FAD/NAD(P)-binding domain]	0050960[2.05e-17]; 0037987[4.41e-06]; 0046750[6.22e-29]
+Eucgr.E03825.1.p		-	-
+Eucgr.E03832.1.p	0037914	0037914[SMAD/FHA domain]	0037914[3.06e-27]
+Eucgr.E03853.1.p	0043739,0049802	0043739[Tudor/PWWP/MBT]; 0049802[ARM repeat]	0043739[5.01e-06]; 0049802[7.68e-35]
+Eucgr.E03853.2.p	0043739,0049802	0043739[Tudor/PWWP/MBT]; 0049802[ARM repeat]	0043739[2.63e-05]; 0049802[7.68e-35]
+Eucgr.E03853.3.p	0043739,0049802	0043739[Tudor/PWWP/MBT]; 0049802[ARM repeat]	0043739[5.01e-06]; 0049802[9.51e-35]
+Eucgr.E03864.1.p		-	-
+Eucgr.E03870.1.p		-	-
+Eucgr.E03877.1.p	0046837,0040327	0046837["Winged helix" DNA-binding domain]; 0040327[S-adenosyl-L-methionine-dependent methyltransferases]	0046837[1.9e-18]; 0040327[4.65e-06]
+Eucgr.E03888.1.p	0042664	0042664[Holliday junction resolvase RusA]	0042664[0.00942]
+Eucgr.E03894.1.p	0053649,0042598,0049471,0049473	0053649[HAD-like]; 0042598[Metal cation-transporting ATPase, ATP-binding domain N]; 0049471[Calcium ATPase, transduction domain A]; 0049473[Calcium ATPase, transmembrane domain M]	0053649[2.9e-19]; 0042598[8.17e-06]; 0049471[3.14e-17]; 0049473[1.44e-63]
+Eucgr.E03909.1.p	0050060	0050060[Folate-binding domain]	0050060[2.51e-71]
+Eucgr.E03919.1.p	0037137	0037137[Cystatin/monellin]	0037137[2.98e-29]
+Eucgr.E03925.1.p		-	-
+Eucgr.E03927.1.p	0046368	0046368[E set domains]	0046368[3.01e-67]
+Eucgr.E03927.2.p	0046368	0046368[E set domains]	0046368[2.31e-58]
+Eucgr.E03934.1.p		-	-
+Eucgr.E03942.1.p	0048505,0037803,0045099	0048505[L domain-like]; 0037803[Protein kinase-like (PK-like)]; 0045099[RNI-like]	0048505[8.16e-55]; 0037803[3.62e-11]; 0045099[8.63e-46]
+Eucgr.E03954.1.p		-	-
+Eucgr.E03955.1.p		-	-
+Eucgr.E03955.2.p		-	-
+Eucgr.E03955.3.p		-	-
+Eucgr.E03966.1.p		-	-
+Eucgr.E03979.1.p		-	-
+Eucgr.E03980.1.p	0050087	0050087[RING/U-box]	0050087[2.5e-14]
+Eucgr.E03981.1.p		-	-
+Eucgr.E03985.1.p		-	-
+Eucgr.E03989.1.p	0048263	0048263[DPP6 N-terminal domain-like]	0048263[0.00824]
+Eucgr.E03992.1.p		-	-
+Eucgr.E03996.1.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[1.62e-56]
+Eucgr.E04000.1.p	0046211	0046211[PLP-binding barrel]	0046211[1.19e-74]
+Eucgr.E04008.1.p		-	-
+Eucgr.E04023.1.p		-	-
+Eucgr.E04023.2.p		-	-
+Eucgr.E04027.1.p		-	-
+Eucgr.E04038.1.p		-	-
+Eucgr.E04046.1.p		-	-
+Eucgr.E04049.1.p		-	-
+Eucgr.E04054.1.p	0053698	0053698[Homeodomain-like]	0053698[7.18e-05]
+Eucgr.E04054.2.p	0053698	0053698[Homeodomain-like]	0053698[7.18e-05]
+Eucgr.E04061.1.p		-	-
+Eucgr.E04110.1.p	0046648	0046648[Carbohydrate-binding domain]	0046648[0.00523]
+Eucgr.E04125.1.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[4.86e-39]
+Eucgr.E04152.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[1.6e-83]
+Eucgr.E04160.1.p	0044407	0044407[Protein kinase-like (PK-like)]	0044407[2.29e-52]
+Eucgr.E04173.1.p		-	-
+Eucgr.E04181.1.p		-	-
+Eucgr.E04194.1.p	0043269	0043269[Protein kinase-like (PK-like)]	0043269[1.08e-27]
+Eucgr.E04199.1.p	0040727	0040727[Protein kinase-like (PK-like)]	0040727[2.16e-60]
+Eucgr.E04203.1.p		-	-
+Eucgr.E04206.1.p	0045974,0046888,0048505,0053686	0045974["Winged helix" DNA-binding domain]; 0046888[Toll/Interleukin receptor TIR domain]; 0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[1.28e-07]; 0046888[2.88e-21]; 0048505[4.34e-49]; 0053686[1.36e-48]
+Eucgr.E04238.1.p	0043898	0043898[Acid proteases]	0043898[5.63e-92]
+Eucgr.E04240.1.p		-	-
+Eucgr.E04246.1.p	0035101	0035101[HLH, helix-loop-helix DNA-binding domain]	0035101[6.66e-15]
+Eucgr.E04250.1.p	0053730	0053730[ParB/Sulfiredoxin]	0053730[1.73e-28]
+Eucgr.E04257.1.p	0049488	0049488[Ankyrin repeat]	0049488[5.2e-06]
+Eucgr.E04266.1.p	0048505,0041848	0048505[L domain-like]; 0041848[L domain-like]	0048505[9.07e-38]; 0041848[9.69e-54]
+Eucgr.E04275.1.p		-	-
+Eucgr.E04282.1.p	0041848	0041848[L domain-like]	0041848[1.7e-39]
+Eucgr.E04292.1.p		-	-
+Eucgr.E04293.1.p	0038852,0038303	0038852[Second domain of Mu2 adaptin subunit (ap50) of ap2 adaptor]; 0038303[SNARE-like]	0038852[5.36e-06]; 0038303[1.56e-06]
+Eucgr.E04313.1.p	0045110	0045110[beta-beta-alpha zinc fingers]	0045110[0.00034]
+Eucgr.E04313.2.p	0045110	0045110[beta-beta-alpha zinc fingers]	0045110[0.000306]
+Eucgr.E04313.3.p	0045110	0045110[beta-beta-alpha zinc fingers]	0045110[0.000306]
+Eucgr.E04313.4.p	0045110	0045110[beta-beta-alpha zinc fingers]	0045110[0.000306]
+Eucgr.E04325.1.p		-	-
+Eucgr.E04339.1.p		-	-
+Eucgr.E04341.1.p	0041295,0050384	0041295[Cysteine proteinases]; 0050384[DUSP-like]	0041295[1.39e-79]; 0050384[1.31e-12]
+Eucgr.E04346.1.p		-	-
+Eucgr.E04352.1.p	0047741	0047741[Galactose oxidase, central domain]	0047741[0.00353]
+Eucgr.E04362.1.p	0038020	0038020[Nucleotide-diphospho-sugar transferases]	0038020[2.45e-12]
+Eucgr.E04363.1.p	0049471,0048396,0049473,0049472	0049471[Calcium ATPase, transduction domain A]; 0048396[HAD-like]; 0049473[Calcium ATPase, transmembrane domain M]; 0049472[Metal cation-transporting ATPase, ATP-binding domain N]	0049471[1.7e-05]; 0048396[1.59e-23]; 0049473[3.4e-16]; 0049472[1.61e-12]
+Eucgr.E04372.1.p	0035371,0041848	0035371[Protein kinase-like (PK-like)]; 0041848[L domain-like]	0035371[1.75e-64]; 0041848[7.78e-39]
+Eucgr.K01948.1.p		-	-
+Eucgr.K01960.1.p	0052585,0052584,0052583	0052585[(Trans)glycosidases]; 0052584[Glycosyl hydrolase domain]; 0052583[Galactose mutarotase-like]	0052585[6.74e-81]; 0052584[3.74e-17]; 0052583[8.79e-39]
+Eucgr.K01968.1.p		-	-
+Eucgr.K01972.1.p	0046805	0046805[Bifunctional inhibitor/lipid-transfer protein/seed storage 2S albumin]	0046805[2.34e-17]
+Eucgr.L00405.1.p	0049923	0049923[Phosphoenolpyruvate/pyruvate domain]	0049923[9.94e-09]
+Eucgr.L00407.1.p	0035371,0047362	0035371[Protein kinase-like (PK-like)]; 0047362[Growth factor receptor domain]	0035371[8.23e-77]; 0047362[9.57e-07]
+Eucgr.L00408.1.p	0050473,0050474	0050473[FYVE/PHD zinc finger]; 0050474[FYVE/PHD zinc finger]	0050473[5.09e-11]; 0050474[4.65e-12]
+Eucgr.L00411.1.p	0045110	0045110[beta-beta-alpha zinc fingers]	0045110[0.00228]
+Eucgr.L00412.1.p	0035371,0047362	0035371[Protein kinase-like (PK-like)]; 0047362[Growth factor receptor domain]	0035371[1.35e-79]; 0047362[6.28e-09]
+Eucgr.L00413.1.p	0043098	0043098[POZ domain]	0043098[1.15e-15]
+Eucgr.L00414.1.p		-	-
+Eucgr.L00416.1.p		-	-
+Eucgr.L00417.1.p	0051184	0051184[EF-hand]	0051184[1.17e-30]
+Eucgr.L00418.1.p		-	-
+Eucgr.L00420.1.p	0043098	0043098[POZ domain]	0043098[2.01e-22]
+Eucgr.L00421.1.p		-	-
+Eucgr.L00423.1.p		-	-
+Eucgr.L00425.1.p	0035371,0041848	0035371[Protein kinase-like (PK-like)]; 0041848[L domain-like]	0035371[2.7e-67]; 0041848[7.25e-58]
+Eucgr.L00426.1.p		-	-
+Eucgr.L00426.2.p		-	-
+Eucgr.L00426.3.p		-	-
+Eucgr.L00426.4.p		-	-
+Eucgr.L00427.1.p	0036450	0036450[Pseudouridine synthase]	0036450[3.16e-43]
+Eucgr.L00429.1.p		-	-
+Eucgr.L00588.1.p	0043898	0043898[Acid proteases]	0043898[9.1e-61]
+Eucgr.L00590.1.p	0043898	0043898[Acid proteases]	0043898[1.52e-60]
+Eucgr.L00593.1.p	0043898	0043898[Acid proteases]	0043898[1.13e-56]
+Eucgr.L00594.1.p	0043898	0043898[Acid proteases]	0043898[2.1e-22]
+Eucgr.L00595.1.p		-	-
+Eucgr.L00597.1.p	0035558,0040112	0035558[Hairpin loop containing domain-like]; 0040112[alpha-D-mannose-specific plant lectins]	0035558[0.00235]; 0040112[7.98e-30]
+Eucgr.L00599.1.p	0054538	0054538[UDP-Glycosyltransferase/glycogen phosphorylase]	0054538[8.48e-148]
+Eucgr.L00600.1.p	0051363,0051364	0051363[Trimeric LpxA-like enzymes]; 0051364[Nucleotide-diphospho-sugar transferases]	0051363[2.08e-21]; 0051364[4.41e-78]
+Eucgr.L00601.1.p	0043663	0043663[PR-1-like]	0043663[9.07e-05]
+Eucgr.L00603.1.p	0048588	0048588[Mitochondrial carrier]	0048588[1.83e-20]
+Eucgr.L00604.1.p	0043898	0043898[Acid proteases]	0043898[8.02e-65]
+Eucgr.L00605.1.p	0043898	0043898[Acid proteases]	0043898[9.1e-63]
+Eucgr.L00606.1.p	0048588	0048588[Mitochondrial carrier]	0048588[2.62e-22]
+Eucgr.L00613.1.p	0037738,0048505,0041848	0037738[RNI-like]; 0048505[L domain-like]; 0041848[L domain-like]	0037738[3.37e-38]; 0048505[1.02e-40]; 0041848[2.89e-48]
+Eucgr.L00614.1.p	0046497	0046497[(Trans)glycosidases]	0046497[7.21e-28]
+Eucgr.L00615.1.p	0046256,0036855	0046256[(Trans)glycosidases]; 0036855[Chitinase insertion domain]	0046256[3.9e-71]; 0036855[6.81e-14]
+Eucgr.L00616.1.p		-	-
+Eucgr.L00617.1.p	0050397,0052014	0050397[L domain-like]; 0052014[RNI-like]	0050397[2.89e-20]; 0052014[7.53e-56]
+Eucgr.L00618.1.p	0038299,0045803,0038300	0038299[Cupredoxins]; 0045803[Cupredoxins]; 0038300[Cupredoxins]	0038299[1.42e-35]; 0045803[5.88e-36]; 0038300[3.02e-40]
+Eucgr.L00621.1.p	0038299,0038300,0045803	0038299[Cupredoxins]; 0038300[Cupredoxins]; 0045803[Cupredoxins]	0038299[9.45e-18]; 0038300[1.67e-33]; 0045803[6.81e-37]
+Eucgr.L00623.1.p	0038299,0045803,0038300	0038299[Cupredoxins]; 0045803[Cupredoxins]; 0038300[Cupredoxins]	0038299[3.58e-35]; 0045803[7.89e-37]; 0038300[4.13e-41]
+Eucgr.L00624.1.p		-	-
+Eucgr.L00625.1.p		-	-
+Eucgr.L00626.1.p		-	-
+Eucgr.L00627.1.p	0047302	0047302[Lipocalins]	0047302[4.36e-42]
+Eucgr.L00628.1.p	0047143,0053511	0047143[SNARE-like]; 0053511[SNARE fusion complex]	0047143[1.14e-43]; 0053511[1.88e-20]
+Eucgr.L00629.1.p	0053200	0053200[ERH-like]	0053200[1.44e-39]
+Eucgr.L00874.1.p	0041183,0051103	0041183[FKBP-like]; 0051103[S-adenosyl-L-methionine-dependent methyltransferases]	0041183[0.000851]; 0051103[4.53e-08]
+Eucgr.L00875.1.p	0042932	0042932[TPR-like]	0042932[5.06e-11]
+Eucgr.L00876.1.p	0046180	0046180[Protein kinase-like (PK-like)]	0046180[4.82e-05]
+Eucgr.L00877.1.p		-	-
+Eucgr.L00878.1.p		-	-
+Eucgr.L00881.1.p	0052585,0052584,0052583	0052585[(Trans)glycosidases]; 0052584[Glycosyl hydrolase domain]; 0052583[Galactose mutarotase-like]	0052585[1.73e-63]; 0052584[3.88e-18]; 0052583[4.08e-07]
+Eucgr.L00916.1.p	0046209	0046209[Cysteine proteinases]	0046209[3.57e-98]
+Eucgr.L00917.1.p	0051417	0051417[Cysteine proteinases]	0051417[5.61e-59]
+Eucgr.L00918.1.p	0046209	0046209[Cysteine proteinases]	0046209[1.37e-106]
+Eucgr.L00919.1.p	0045204	0045204[Cysteine proteinases]	0045204[6.44e-43]
+Eucgr.L00920.1.p	0046209	0046209[Cysteine proteinases]	0046209[2.68e-106]
+Eucgr.L00921.1.p	0046209	0046209[Cysteine proteinases]	0046209[1.87e-94]
+Eucgr.L00922.1.p	0054207	0054207[alpha/beta-Hydrolases]	0054207[1.12e-19]
+Eucgr.L00923.1.p	0052091	0052091[Zn-dependent exopeptidases]	0052091[2.38e-53]
+Eucgr.L00924.1.p	0054300	0054300[UBC-like]	0054300[1.7e-50]
+Eucgr.L00924.2.p	0054300	0054300[UBC-like]	0054300[1.7e-50]
+Eucgr.L00924.3.p	0054300	0054300[UBC-like]	0054300[4.72e-47]
+Eucgr.L00925.1.p		-	-
+Eucgr.L00926.1.p	0040727,0036644,0038477	0040727[Protein kinase-like (PK-like)]; 0036644[EGF/Laminin]; 0038477[Protein kinase-like (PK-like)]	0040727[5.05e-06]; 0036644[5.76e-07]; 0038477[0.00131]
+Eucgr.L00927.1.p	0046244,0041848	0046244[L domain-like]; 0041848[L domain-like]	0046244[1.21e-12]; 0041848[1.19e-42]
+Eucgr.L00990.1.p	0054538	0054538[UDP-Glycosyltransferase/glycogen phosphorylase]	0054538[5.1e-38]
+Eucgr.L00991.1.p	0054538	0054538[UDP-Glycosyltransferase/glycogen phosphorylase]	0054538[2.48e-147]
+Eucgr.L00994.1.p	0054538	0054538[UDP-Glycosyltransferase/glycogen phosphorylase]	0054538[7.22e-135]
+Eucgr.L01023.1.p		-	-
+Eucgr.L01102.1.p	0048842	0048842[NAD(P)-linked oxidoreductase]	0048842[1.57e-96]
+Eucgr.L01103.1.p	0048842	0048842[NAD(P)-linked oxidoreductase]	0048842[5.24e-98]
+Eucgr.L01104.1.p	0048842	0048842[NAD(P)-linked oxidoreductase]	0048842[1.96e-72]
+Eucgr.L01115.1.p		-	-
+Eucgr.L01119.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[2.11e-52]
+Eucgr.L01120.1.p	0046256,0036855	0046256[(Trans)glycosidases]; 0036855[Chitinase insertion domain]	0046256[6.1e-52]; 0036855[2.26e-13]
+Eucgr.L01123.1.p	0049892,0047241	0049892[ARM repeat]; 0047241[ARM repeat]	0049892[3.88e-36]; 0047241[1.06e-17]
+Eucgr.L01169.1.p	0047122	0047122[(Trans)glycosidases]	0047122[1.85e-66]
+Eucgr.L01170.1.p	0047122	0047122[(Trans)glycosidases]	0047122[8.23e-64]
+Eucgr.L01182.1.p	0054912	0054912[Cytochrome P450]	0054912[7.99e-109]
+Eucgr.L01183.1.p	0041235	0041235[SRF-like]	0041235[8.24e-28]
+Eucgr.L01185.1.p	0054912	0054912[Cytochrome P450]	0054912[8.25e-65]
+Eucgr.L01186.1.p	0054912	0054912[Cytochrome P450]	0054912[2.75e-36]
+Eucgr.L01189.1.p	0054912	0054912[Cytochrome P450]	0054912[6.55e-110]
+Eucgr.L01192.1.p	0050397,0041848,0053105	0050397[L domain-like]; 0041848[L domain-like]; 0053105[L domain-like]	0050397[2.52e-11]; 0041848[2.55e-51]; 0053105[0.00177]
+Eucgr.L01193.1.p	0051010,0046244,0047619	0051010[L domain-like]; 0046244[L domain-like]; 0047619[L domain-like]	0051010[2.41e-61]; 0046244[5.1e-17]; 0047619[1.11e-45]
+Eucgr.L01217.1.p	0042298	0042298[Acetyl-CoA synthetase-like]	0042298[6.93e-34]
+Eucgr.L01219.1.p	0047108	0047108[RNA-binding domain, RBD]	0047108[1.16e-15]
+Eucgr.L01220.1.p	0042298	0042298[Acetyl-CoA synthetase-like]	0042298[9.94e-79]
+Eucgr.L01230.1.p	0049214	0049214[Pectin lyase-like]	0049214[3.14e-117]
+Eucgr.L01290.1.p		-	-
+Eucgr.L01291.1.p		-	-
+Eucgr.L01292.1.p	0044554	0044554[Formin homology 2 domain (FH2 domain)]	0044554[0.000102]
+Eucgr.L01293.1.p		-	-
+Eucgr.L01309.1.p	0048863,0050001	0048863[NAD(P)-binding Rossmann-fold domains]; 0050001[GroES-like]	0048863[6.48e-29]; 0050001[2.43e-33]
+Eucgr.L01310.1.p	0048863,0048672	0048863[NAD(P)-binding Rossmann-fold domains]; 0048672[GroES-like]	0048863[1.01e-36]; 0048672[1.02e-32]
+Eucgr.L01311.1.p	0048863,0050001	0048863[NAD(P)-binding Rossmann-fold domains]; 0050001[GroES-like]	0048863[2.81e-23]; 0050001[1.26e-34]
+Eucgr.L01312.1.p		-	-
+Eucgr.L01323.1.p		-	-
+Eucgr.L01324.1.p	0048505,0053686	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[4.76e-32]; 0053686[6.55e-40]
+Eucgr.L01326.1.p	0048505,0053686	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[1.47e-36]; 0053686[3.98e-13]
+Eucgr.L01326.2.p	0048505,0053686	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[1.47e-36]; 0053686[3.98e-13]
+Eucgr.L01352.1.p		-	-
+Eucgr.L01363.1.p	0047619,0053686	0047619[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0047619[2.04e-28]; 0053686[1.14e-47]
+Eucgr.L01365.1.p	0044574	0044574[ALDH-like]	0044574[1.44e-41]
+Eucgr.L01366.1.p	0047619,0053686	0047619[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0047619[2.15e-22]; 0053686[4.03e-48]
+Eucgr.L01367.1.p	0048648	0048648[HCP-like]	0048648[0.000228]
+Eucgr.L01388.1.p		-	-
+Eucgr.L01389.1.p		-	-
+Eucgr.L01390.1.p		-	-
+Eucgr.L01391.1.p		-	-
+Eucgr.L01392.1.p	0046833	0046833[Nucleotide-diphospho-sugar transferases]	0046833[4.5e-05]
+Eucgr.L01393.1.p		-	-
+Eucgr.L01396.1.p	0049440	0049440[WD40 repeat-like]	0049440[1.83e-22]
+Eucgr.L01406.1.p	0046244,0048505,0053686,0046888	0046244[L domain-like]; 0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]; 0046888[Toll/Interleukin receptor TIR domain]	0046244[1.8e-12]; 0048505[6.97e-34]; 0053686[2.06e-53]; 0046888[3.27e-30]
+Eucgr.L01407.1.p	0048505,0053686,0046888	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]; 0046888[Toll/Interleukin receptor TIR domain]	0048505[1.8e-16]; 0053686[1.55e-31]; 0046888[0.000719]
+Eucgr.L01409.1.p	0045974,0048505,0037738,0053686,0046888	0045974["Winged helix" DNA-binding domain]; 0048505[L domain-like]; 0037738[RNI-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]; 0046888[Toll/Interleukin receptor TIR domain]	0045974[2.99e-07]; 0048505[5.67e-34]; 0037738[5.26e-16]; 0053686[1.2e-58]; 0046888[1.31e-34]
+Eucgr.L01410.1.p	0050358	0050358[TPR-like]	0050358[2.98e-06]
+Eucgr.L01412.1.p	0054423,0037738	0054423[F-box domain]; 0037738[RNI-like]	0054423[8.63e-10]; 0037738[1.45e-10]
+Eucgr.L01436.1.p		-	-
+Eucgr.L01442.1.p	0046608	0046608[Bromodomain]	0046608[1.83e-17]
+Eucgr.L01443.1.p		-	-
+Eucgr.L01444.1.p		-	-
+Eucgr.L01445.1.p		-	-
+Eucgr.L01476.1.p	0048920	0048920[(Trans)glycosidases]	0048920[2.11e-76]
+Eucgr.L01519.1.p		-	-
+Eucgr.L01520.1.p		-	-
+Eucgr.L01521.1.p		-	-
+Eucgr.L01522.1.p		-	-
+Eucgr.L01523.1.p		-	-
+Eucgr.L01527.1.p	0052749	0052749[S-adenosyl-L-methionine-dependent methyltransferases]	0052749[1.56e-61]
+Eucgr.L01528.1.p	0035558,0038477,0040112	0035558[Hairpin loop containing domain-like]; 0038477[Protein kinase-like (PK-like)]; 0040112[alpha-D-mannose-specific plant lectins]	0035558[0.000432]; 0038477[1.75e-80]; 0040112[1.96e-20]
+Eucgr.L01528.2.p	0035558,0038477,0040112	0035558[Hairpin loop containing domain-like]; 0038477[Protein kinase-like (PK-like)]; 0040112[alpha-D-mannose-specific plant lectins]	0035558[0.000432]; 0038477[1.62e-80]; 0040112[1.96e-20]
+Eucgr.L01528.3.p	0035371,0035558,0040112	0035371[Protein kinase-like (PK-like)]; 0035558[Hairpin loop containing domain-like]; 0040112[alpha-D-mannose-specific plant lectins]	0035371[7.69e-56]; 0035558[0.000318]; 0040112[1.44e-20]
+Eucgr.L01530.1.p	0035558,0038477	0035558[Hairpin loop containing domain-like]; 0038477[Protein kinase-like (PK-like)]	0035558[0.00549]; 0038477[1.12e-59]
+Eucgr.L01531.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[1.25e-80]
+Eucgr.L01531.2.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[4.72e-81]
+Eucgr.L01546.1.p		-	-
+Eucgr.L01546.2.p		-	-
+Eucgr.L01547.1.p	0050682	0050682[alpha/beta-Hydrolases]	0050682[3.57e-131]
+Eucgr.L01548.1.p	0053070	0053070[L35p-like]	0053070[1.7e-19]
+Eucgr.L01549.1.p		-	-
+Eucgr.L01550.1.p		-	-
+Eucgr.L01558.1.p		-	-
+Eucgr.L01561.1.p		-	-
+Eucgr.L01564.1.p		-	-
+Eucgr.L01565.1.p		-	-
+Eucgr.L01566.1.p		-	-
+Eucgr.L01602.1.p	0047914	0047914[BRCT domain]	0047914[4.36e-24]
+Eucgr.L01603.1.p	0043547	0043547[Heme-dependent peroxidases]	0043547[1.22e-69]
+Eucgr.L01604.1.p		-	-
+Eucgr.L01617.1.p	0038952	0038952[PLP-dependent transferases]	0038952[9.11e-101]
+Eucgr.L01634.1.p	0049142	0049142[PR-1-like]	0049142[1.83e-27]
+Eucgr.L01637.1.p	0050379	0050379[Terpenoid cyclases/Protein prenyltransferases]	0050379[1.67e-51]
+Eucgr.L01638.1.p	0048505,0053686	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[2.04e-19]; 0053686[2.36e-42]
+Eucgr.L01649.1.p		-	-
+Eucgr.L01655.1.p	0053336	0053336[alpha/beta-Hydrolases]	0053336[6.19e-56]
+Eucgr.L01655.2.p	0053336	0053336[alpha/beta-Hydrolases]	0053336[3.11e-55]
+Eucgr.L01656.1.p	0038299,0045803,0038300	0038299[Cupredoxins]; 0045803[Cupredoxins]; 0038300[Cupredoxins]	0038299[1.84e-30]; 0045803[7.99e-36]; 0038300[9.37e-39]
+Eucgr.L01672.1.p		-	-
+Eucgr.L01689.1.p		-	-
+Eucgr.L01693.1.p	0049310	0049310[Ubiquitin-like]	0049310[4.65e-22]
+Eucgr.L01696.1.p	0040112	0040112[alpha-D-mannose-specific plant lectins]	0040112[4.84e-23]
+Eucgr.L01698.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[2.67e-29]
+Eucgr.L01713.1.p		-	-
+Eucgr.L01723.1.p		-	-
+Eucgr.L01724.1.p	0049440	0049440[WD40 repeat-like]	0049440[2.93e-16]
+Eucgr.L01726.1.p		-	-
+Eucgr.L01726.2.p		-	-
+Eucgr.L01727.1.p		-	-
+Eucgr.L01740.1.p	0047741	0047741[Galactose oxidase, central domain]	0047741[0.000222]
+Eucgr.L01753.1.p	0048261,0053354	0048261[Terpenoid synthases]; 0053354[Terpenoid cyclases/Protein prenyltransferases]	0048261[9.5e-79]; 0053354[2.35e-50]
+Eucgr.L01759.1.p	0051019	0051019[Mss4-like]	0051019[2.41e-46]
+Eucgr.L01767.1.p	0037239	0037239[alpha/beta-Hydrolases]	0037239[0.00047]
+Eucgr.L01770.1.p	0036037,0047192,0038604,0044279	0036037[Heat shock protein 70kD (HSP70), peptide-binding domain]; 0047192[Actin-like ATPase domain]; 0038604[Actin-like ATPase domain]; 0044279[Heat shock protein 70kD (HSP70), C-terminal subdomain]	0036037[1.23e-62]; 0047192[2.43e-45]; 0038604[2.98e-67]; 0044279[4.19e-24]
+Eucgr.L01771.1.p	0036119,0042742,0049906	0036119[Ferredoxin reductase-like, C-terminal NADP-linked domain]; 0042742[Riboflavin synthase domain-like]; 0049906[EF-hand]	0036119[3.54e-09]; 0042742[1.46e-17]; 0049906[8.51e-18]
+Eucgr.L01779.1.p	0054912	0054912[Cytochrome P450]	0054912[2.88e-71]
+Eucgr.L01780.1.p	0054912	0054912[Cytochrome P450]	0054912[1.7e-93]
+Eucgr.L01783.1.p	0048659	0048659[FabD/lysophospholipase-like]	0048659[5.49e-70]
+Eucgr.L01797.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[1.51e-17]
+Eucgr.L01799.1.p		-	-
+Eucgr.L01800.1.p		-	-
+Eucgr.L01801.1.p	0050582	0050582[DNA-binding pseudobarrel domain]	0050582[1.28e-14]
+Eucgr.L01802.1.p	0050582	0050582[DNA-binding pseudobarrel domain]	0050582[5.69e-16]
+Eucgr.L01803.1.p		-	-
+Eucgr.L01818.1.p		-	-
+Eucgr.L01819.1.p	0046244	0046244[L domain-like]	0046244[4.42e-11]
+Eucgr.L01852.1.p		-	-
+Eucgr.L01864.1.p	0048505	0048505[L domain-like]	0048505[1.25e-24]
+Eucgr.L01865.1.p	0048505,0053686	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[7.25e-31]; 0053686[3.73e-36]
+Eucgr.L01879.1.p		-	-
+Eucgr.L01880.1.p	0052242	0052242[CCCH zinc finger]	0052242[2.35e-06]
+Eucgr.L01885.1.p	0046759	0046759[HMA, heavy metal-associated domain]	0046759[2.49e-08]
+Eucgr.L01904.1.p	0042676	0042676[CoA-dependent acyltransferases]	0042676[0.000834]
+Eucgr.L01909.1.p	0046244,0048505,0053686,0046888	0046244[L domain-like]; 0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]; 0046888[Toll/Interleukin receptor TIR domain]	0046244[2.61e-25]; 0048505[1.26e-48]; 0053686[1.43e-49]; 0046888[1.44e-34]
+Eucgr.L01910.1.p	0048505	0048505[L domain-like]	0048505[4.97e-49]
+Eucgr.L01911.1.p	0045974,0046888,0047619,0053686	0045974["Winged helix" DNA-binding domain]; 0046888[Toll/Interleukin receptor TIR domain]; 0047619[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[7.34e-10]; 0046888[1.31e-34]; 0047619[0.000289]; 0053686[1.78e-57]
+Eucgr.L01916.1.p	0036443	0036443[alpha/beta-Hydrolases]	0036443[8.77e-15]
+Eucgr.L01934.1.p		-	-
+Eucgr.L01935.1.p		-	-
+Eucgr.L01941.1.p		-	-
+Eucgr.L01943.1.p	0053311	0053311[Thioredoxin-like]	0053311[9.05e-17]
+Eucgr.L01944.1.p		-	-
+Eucgr.L01962.1.p	0035208	0035208[Osmotin, thaumatin-like protein]	0035208[1.83e-86]
+Eucgr.L01965.1.p		-	-
+Eucgr.L01965.2.p		-	-
+Eucgr.L01966.1.p	0050086,0044404	0050086[Ubiquitin-like]; 0044404[BAG domain]	0050086[4.37e-17]; 0044404[1.96e-12]
+Eucgr.L01987.1.p	0037553	0037553[Ribosomal protein L39e]	0037553[1.02e-16]
+Eucgr.L01988.1.p	0050358,0054395	0050358[TPR-like]; 0054395[TPR-like]	0050358[0.00272]; 0054395[8.16e-06]
+Eucgr.L02007.1.p		-	-
+Eucgr.L02046.1.p	0054707	0054707[CBS-domain pair]	0054707[8.69e-16]
+Eucgr.L02047.1.p		-	-
+Eucgr.L02059.1.p	0050682	0050682[alpha/beta-Hydrolases]	0050682[1.97e-125]
+Eucgr.L02065.1.p	0035281	0035281[P-loop containing nucleoside triphosphate hydrolases]	0035281[1.42e-38]
+Eucgr.L02066.1.p	0035281	0035281[P-loop containing nucleoside triphosphate hydrolases]	0035281[1.08e-30]
+Eucgr.L02067.1.p		-	-
+Eucgr.L02068.1.p	0035281	0035281[P-loop containing nucleoside triphosphate hydrolases]	0035281[8.23e-37]
+Eucgr.L02069.1.p	0035281	0035281[P-loop containing nucleoside triphosphate hydrolases]	0035281[8.23e-39]
+Eucgr.L02078.1.p	0053126	0053126[Magnesium transport protein CorA, transmembrane region]	0053126[4.05e-06]
+Eucgr.L02084.1.p	0054829	0054829[P-loop containing nucleoside triphosphate hydrolases]	0054829[9.11e-81]
+Eucgr.L02085.1.p		-	-
+Eucgr.L02094.1.p	0048505,0041848	0048505[L domain-like]; 0041848[L domain-like]	0048505[4.68e-35]; 0041848[1.56e-46]
+Eucgr.L02095.1.p	0041848	0041848[L domain-like]	0041848[3.06e-33]
+Eucgr.L02096.1.p	0050562	0050562[R3H domain]	0050562[0.00163]
+Eucgr.L02097.1.p		-	-
+Eucgr.L02102.1.p		-	-
+Eucgr.L02103.1.p	0053857	0053857[FAD/NAD(P)-binding domain]	0053857[5.7e-54]
+Eucgr.L02105.1.p		-	-
+Eucgr.L02108.1.p		-	-
+Eucgr.L02110.1.p		-	-
+Eucgr.L02135.1.p	0051109	0051109[NAD(P)-binding Rossmann-fold domains]	0051109[1.55e-35]
+Eucgr.L02139.1.p	0047122	0047122[(Trans)glycosidases]	0047122[2.02e-77]
+Eucgr.L02166.1.p		-	-
+Eucgr.L02167.1.p	0047108	0047108[RNA-binding domain, RBD]	0047108[1.03e-28]
+Eucgr.L02171.1.p		-	-
+Eucgr.L02171.2.p		-	-
+Eucgr.L02171.3.p		-	-
+Eucgr.L02182.1.p		-	-
+Eucgr.L02203.1.p	0041927	0041927[Protein kinase-like (PK-like)]	0041927[1.26e-69]
+Eucgr.L02206.1.p	0047619	0047619[L domain-like]	0047619[6.12e-28]
+Eucgr.L02207.1.p	0046888	0046888[Toll/Interleukin receptor TIR domain]	0046888[1.83e-37]
+Eucgr.L02210.1.p	0035371,0041848,0042103	0035371[Protein kinase-like (PK-like)]; 0041848[L domain-like]; 0042103[L domain-like]	0035371[2.32e-69]; 0041848[7.48e-60]; 0042103[2.41e-40]
+Eucgr.L02220.1.p	0049331,0051277	0049331[Ankyrin repeat]; 0051277[Ankyrin repeat]	0049331[1.17e-30]; 0051277[5.34e-05]
+Eucgr.L02232.1.p	0047015	0047015[HSP20-like chaperones]	0047015[5.23e-45]
+Eucgr.L02232.2.p	0047015	0047015[HSP20-like chaperones]	0047015[3.35e-36]
+Eucgr.L02233.1.p		-	-
+Eucgr.L02237.1.p		-	-
+Eucgr.L02238.1.p		-	-
+Eucgr.L02278.1.p	0046281	0046281[Protein prenylyltransferase]	0046281[1.57e-31]
+Eucgr.L02279.1.p	0053812,0040180	0053812[UBC-like]; 0040180[Protein kinase-like (PK-like)]	0053812[8.1e-21]; 0040180[6.15e-10]
+Eucgr.L02289.1.p		-	-
+Eucgr.L02292.1.p	0047433,0038257	0047433[Protease propeptides/inhibitors]; 0038257[Subtilisin-like]	0047433[0.00187]; 0038257[1.15e-79]
+Eucgr.L02295.1.p		-	-
+Eucgr.L02296.1.p	0053355	0053355[Terpenoid synthases]	0053355[4.8e-56]
+Eucgr.L02306.1.p		-	-
+Eucgr.L02313.1.p	0048505,0047619,0053686	0048505[L domain-like]; 0047619[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[7.99e-19]; 0047619[2.49e-16]; 0053686[1.73e-50]
+Eucgr.L02321.1.p		-	-
+Eucgr.L02330.1.p	0048663	0048663[GST C-terminal domain-like]	0048663[7.84e-19]
+Eucgr.L02345.1.p		-	-
+Eucgr.L02345.2.p		-	-
+Eucgr.L02348.1.p	0046410	0046410[alpha/beta-Hydrolases]	0046410[7.49e-05]
+Eucgr.L02349.1.p		-	-
+Eucgr.L02350.1.p	0048505	0048505[L domain-like]	0048505[1.14e-41]
+Eucgr.L02364.1.p		-	-
+Eucgr.L02370.1.p	0049331	0049331[Ankyrin repeat]	0049331[8.55e-43]
+Eucgr.L02375.1.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[4.92e-51]
+Eucgr.L02396.1.p	0048633	0048633[alpha/beta-Hydrolases]	0048633[8.25e-06]
+Eucgr.L02400.1.p	0054676	0054676[alpha/beta-Hydrolases]	0054676[8.71e-52]
+Eucgr.L02407.1.p	0049119	0049119[Subtilisin-like]	0049119[1.11e-44]
+Eucgr.L02419.1.p		-	-
+Eucgr.L02423.1.p	0039493,0051706,0041998	0039493[Periplasmic binding protein-like I]; 0051706[Periplasmic binding protein-like II]; 0041998[Voltage-gated potassium channels]	0039493[1.14e-31]; 0051706[1.96e-41]; 0041998[0.000108]
+Eucgr.L02424.1.p	0039493,0051706	0039493[Periplasmic binding protein-like I]; 0051706[Periplasmic binding protein-like II]	0039493[1.45e-55]; 0051706[1.06e-43]
+Eucgr.L02426.1.p		-	-
+Eucgr.L02433.1.p		-	-
+Eucgr.L02441.1.p		-	-
+Eucgr.L02447.1.p	0048261	0048261[Terpenoid synthases]	0048261[6.33e-37]
+Eucgr.L02454.1.p	0036051,0046171	0036051[PurM C-terminal domain-like]; 0046171[PurM N-terminal domain-like]	0036051[1.64e-57]; 0046171[3.89e-45]
+Eucgr.L02455.1.p		-	-
+Eucgr.L02484.1.p		-	-
+Eucgr.L02509.1.p		-	-
+Eucgr.L02510.1.p		-	-
+Eucgr.L02512.1.p		-	-
+Eucgr.L02517.1.p	0047285	0047285[Metalloproteases ("zincins"), catalytic domain]	0047285[1.59e-53]
+Eucgr.L02520.1.p	0053693	0053693[UDP-Glycosyltransferase/glycogen phosphorylase]	0053693[4.93e-96]
+Eucgr.L02534.1.p	0043518	0043518[Multidrug resistance efflux transporter EmrE]	0043518[1.31e-06]
+Eucgr.L02535.1.p	0038177	0038177[GST C-terminal domain-like]	0038177[5.15e-29]
+Eucgr.L02548.1.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[1.86e-83]
+Eucgr.L02550.1.p	0050628	0050628[Conserved domain common to transcription factors TFIIS, elongin A, CRSP70]	0050628[0.000209]
+Eucgr.L02550.2.p	0050628	0050628[Conserved domain common to transcription factors TFIIS, elongin A, CRSP70]	0050628[0.000196]
+Eucgr.L02550.3.p	0050628	0050628[Conserved domain common to transcription factors TFIIS, elongin A, CRSP70]	0050628[0.000157]
+Eucgr.L02551.1.p		-	-
+Eucgr.L02563.1.p	0053698	0053698[Homeodomain-like]	0053698[4.67e-29]
+Eucgr.L02581.1.p		-	-
+Eucgr.L02585.1.p	0045974,0048505,0053686	0045974["Winged helix" DNA-binding domain]; 0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0045974[7.89e-13]; 0048505[2.38e-27]; 0053686[1.91e-32]
+Eucgr.L02590.1.p		-	-
+Eucgr.L02610.1.p	0053626,0041176	0053626[Barwin-like endoglucanases]; 0041176[PHL pollen allergen]	0053626[1.5e-47]; 0041176[8.24e-33]
+Eucgr.L02620.1.p	0047624	0047624[RING/U-box]	0047624[0.00115]
+Eucgr.L02621.1.p	0053393	0053393[Apolipoprotein A-I]	0053393[0.00693]
+Eucgr.L02630.1.p	0052253	0052253[TRAF domain-like]	0052253[4.09e-13]
+Eucgr.L02632.1.p	0045037	0045037[4Fe-4S ferredoxins]	0045037[0.00972]
+Eucgr.L02633.1.p	0048505,0041848	0048505[L domain-like]; 0041848[L domain-like]	0048505[5.55e-53]; 0041848[4.19e-44]
+Eucgr.L02639.1.p	0051159,0051158	0051159[Metallo-dependent phosphatases]; 0051158[Purple acid phosphatase, N-terminal domain]	0051159[1.73e-43]; 0051158[1.83e-23]
+Eucgr.L02644.1.p		-	-
+Eucgr.L02645.1.p		-	-
+Eucgr.L02651.1.p	0053925	0053925[alpha/beta-Hydrolases]	0053925[4.82e-39]
+Eucgr.L02664.1.p		-	-
+Eucgr.L02664.2.p		-	-
+Eucgr.L02664.3.p		-	-
+Eucgr.L02664.4.p		-	-
+Eucgr.L02664.5.p		-	-
+Eucgr.L02677.1.p	0050677	0050677[P-loop containing nucleoside triphosphate hydrolases]	0050677[7.71e-60]
+Eucgr.L02680.1.p		-	-
+Eucgr.L02681.1.p	0043898	0043898[Acid proteases]	0043898[2.6e-58]
+Eucgr.L02684.1.p	0052253	0052253[TRAF domain-like]	0052253[3.27e-34]
+Eucgr.L02697.1.p	0054711	0054711[UDP-Glycosyltransferase/glycogen phosphorylase]	0054711[1.22e-84]
+Eucgr.L02704.1.p		-	-
+Eucgr.L02705.1.p	0051884	0051884[S-adenosyl-L-methionine-dependent methyltransferases]	0051884[5e-29]
+Eucgr.L02710.1.p		-	-
+Eucgr.L02716.1.p		-	-
+Eucgr.L02726.1.p	0048962	0048962[Metallo-dependent phosphatases]	0048962[3.14e-42]
+Eucgr.L02746.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[1.05e-27]
+Eucgr.L02749.1.p	0045867	0045867[Sm-like ribonucleoproteins]	0045867[1.93e-18]
+Eucgr.L02750.1.p	0039493,0051706	0039493[Periplasmic binding protein-like I]; 0051706[Periplasmic binding protein-like II]	0039493[8.07e-70]; 0051706[2.72e-45]
+Eucgr.L02757.1.p		-	-
+Eucgr.L02760.1.p		-	-
+Eucgr.L02763.1.p	0042616	0042616[Dimeric alpha+beta barrel]	0042616[1.18e-24]
+Eucgr.L02786.1.p	0047411	0047411[RmlC-like cupins]	0047411[3.04e-47]
+Eucgr.L02792.1.p		-	-
+Eucgr.L02794.1.p	0050682	0050682[alpha/beta-Hydrolases]	0050682[2.67e-107]
+Eucgr.L02795.1.p		-	-
+Eucgr.L02796.1.p	0047027	0047027[Clavaminate synthase-like]	0047027[3.16e-14]
+Eucgr.L02811.1.p		-	-
+Eucgr.L02820.1.p	0035371,0041848	0035371[Protein kinase-like (PK-like)]; 0041848[L domain-like]	0035371[7.62e-65]; 0041848[9.69e-58]
+Eucgr.L02822.1.p		-	-
+Eucgr.L02857.1.p	0049001	0049001[alpha/beta-Hydrolases]	0049001[4.63e-39]
+Eucgr.L02857.2.p	0054676	0054676[alpha/beta-Hydrolases]	0054676[1.52e-38]
+Eucgr.L02858.1.p	0038696	0038696[Leukotriene A4 hydrolase N-terminal domain]	0038696[9.02e-35]
+Eucgr.L02859.1.p	0040340	0040340[Non-heme 11 kDa protein of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)]	0040340[0.00034]
+Eucgr.L02859.2.p	0040340	0040340[Non-heme 11 kDa protein of cytochrome bc1 complex (Ubiquinol-cytochrome c reductase)]	0040340[0.00034]
+Eucgr.L02860.1.p	0047015	0047015[HSP20-like chaperones]	0047015[1.05e-36]
+Eucgr.L02863.1.p	0039935	0039935[NAD(P)-binding Rossmann-fold domains]	0039935[9.69e-37]
+Eucgr.L02868.1.p	0052253	0052253[TRAF domain-like]	0052253[3.27e-29]
+Eucgr.L02877.1.p		-	-
+Eucgr.L02878.1.p		-	-
+Eucgr.L02880.1.p		-	-
+Eucgr.L02883.1.p	0046983	0046983[Chaperone J-domain]	0046983[4.32e-17]
+Eucgr.L02885.1.p	0054423	0054423[F-box domain]	0054423[2.49e-08]
+Eucgr.L02888.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[8.94e-82]
+Eucgr.L02896.1.p	0049853	0049853[P-loop containing nucleoside triphosphate hydrolases]	0049853[1.84e-40]
+Eucgr.L02901.1.p		-	-
+Eucgr.L02912.1.p	0053922	0053922[Ankyrin repeat]	0053922[2.06e-39]
+Eucgr.L02913.1.p		-	-
+Eucgr.L02915.1.p	0048505,0053686	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[9.78e-36]; 0053686[1.09e-42]
+Eucgr.L02920.1.p	0045186	0045186[alpha/beta-Hydrolases]	0045186[4.05e-44]
+Eucgr.L02922.1.p	0048505,0053686	0048505[L domain-like]; 0053686[P-loop containing nucleoside triphosphate hydrolases]	0048505[1.53e-26]; 0053686[9.96e-53]
+Eucgr.L02926.1.p		-	-
+Eucgr.L02927.1.p	0049622	0049622[(Trans)glycosidases]	0049622[2.11e-35]
+Eucgr.L02929.1.p	0046490	0046490[FAD-binding/transporter-associated domain-like]	0046490[5.14e-48]
+Eucgr.L02930.1.p	0049609	0049609[Six-hairpin glycosidases]	0049609[1.51e-45]
+Eucgr.L02934.1.p		-	-
+Eucgr.L02937.1.p	0049949,0041322	0049949[Riboflavin synthase domain-like]; 0041322[Ferredoxin reductase-like, C-terminal NADP-linked domain]	0049949[7.17e-22]; 0041322[2.49e-42]
+Eucgr.L02941.1.p	0038248	0038248[Cupredoxins]	0038248[6.41e-23]
+Eucgr.L02949.1.p	0048279	0048279[Chaperone J-domain]	0048279[0.000464]
+Eucgr.L02951.1.p		-	-
+Eucgr.L02952.1.p		-	-
+Eucgr.L02953.1.p	0035203,0041713	0035203[CRAL/TRIO domain]; 0041713[Supernatant protein factor (SPF), C-terminal domain]	0035203[2.62e-19]; 0041713[0.000942]
+Eucgr.L02957.1.p		-	-
+Eucgr.L02967.1.p		-	-
+Eucgr.L02976.1.p	0035882	0035882[F1F0 ATP synthase subunit C]	0035882[0.000124]
+Eucgr.L02977.1.p	0046164	0046164[DNA ligase/mRNA capping enzyme, catalytic domain]	0046164[5.9e-11]
+Eucgr.L02980.1.p	0047015	0047015[HSP20-like chaperones]	0047015[2.09e-32]
+Eucgr.L02981.1.p		-	-
+Eucgr.L02990.1.p		-	-
+Eucgr.L02991.1.p	0047027	0047027[Clavaminate synthase-like]	0047027[2.06e-109]
+Eucgr.L03010.1.p	0047619	0047619[L domain-like]	0047619[5.1e-14]
+Eucgr.L03012.1.p	0050694	0050694[Cupredoxins]	0050694[1.3e-31]
+Eucgr.L03013.1.p		-	-
+Eucgr.L03014.1.p	0040480	0040480[vWA-like]	0040480[3.56e-15]
+Eucgr.L03020.1.p	0049549,0043892	0049549[PUA domain-like]; 0043892[Pre-PUA domain]	0049549[3.92e-24]; 0043892[4.45e-30]
+Eucgr.L03024.1.p		-	-
+Eucgr.L03030.1.p		-	-
+Eucgr.L03032.1.p		-	-
+Eucgr.L03033.1.p		-	-
+Eucgr.L03039.1.p	0046983	0046983[Chaperone J-domain]	0046983[6.8e-22]
+Eucgr.L03061.1.p	0049310	0049310[Ubiquitin-like]	0049310[6.2e-13]
+Eucgr.L03070.1.p	0051198	0051198[Concanavalin A-like lectins/glucanases]	0051198[5.86e-21]
+Eucgr.L03071.1.p	0051199,0051198	0051199[Arabinanase/levansucrase/invertase]; 0051198[Concanavalin A-like lectins/glucanases]	0051199[3.61e-89]; 0051198[2.37e-35]
+Eucgr.L03074.1.p		-	-
+Eucgr.L03093.1.p		-	-
+Eucgr.L03107.1.p	0050694	0050694[Cupredoxins]	0050694[2.44e-24]
+Eucgr.L03117.1.p		-	-
+Eucgr.L03122.1.p		-	-
+Eucgr.L03123.1.p	0052014	0052014[RNI-like]	0052014[2.12e-09]
+Eucgr.L03124.1.p		-	-
+Eucgr.L03130.1.p	0054912	0054912[Cytochrome P450]	0054912[3.41e-74]
+Eucgr.L03163.1.p	0051522	0051522[Tryptophan synthase beta subunit-like PLP-dependent enzymes]	0051522[1.03e-83]
+Eucgr.L03167.1.p	0052014	0052014[RNI-like]	0052014[1.33e-51]
+Eucgr.L03172.1.p	0037417,0047571	0037417[Voltage-gated potassium channels]; 0047571[EF-hand]	0037417[4.32e-22]; 0047571[7.73e-05]
+Eucgr.L03173.1.p	0037417,0048467	0037417[Voltage-gated potassium channels]; 0048467[EF-hand]	0037417[1.7e-24]; 0048467[3.83e-07]
+Eucgr.L03187.1.p	0050528,0050158,0052455	0050528[UBA-like]; 0050158[UBA-like]; 0052455[UBA-like]	0050528[1.78e-07]; 0050158[0.00034]; 0052455[1.21e-10]
+Eucgr.L03188.1.p	0049801,0052242	0049801[RNA-binding domain, RBD]; 0052242[CCCH zinc finger]	0049801[1.02e-19]; 0052242[5.63e-05]
+Eucgr.L03199.1.p	0048266	0048266[P-loop containing nucleoside triphosphate hydrolases]	0048266[3.22e-27]
+Eucgr.L03204.1.p		-	-
+Eucgr.L03219.1.p		-	-
+Eucgr.L03220.1.p		-	-
+Eucgr.L03232.1.p		-	-
+Eucgr.L03234.1.p		-	-
+Eucgr.L03243.1.p	0054300	0054300[UBC-like]	0054300[4.59e-29]
+Eucgr.L03257.1.p	0045443	0045443[EF-hand]	0045443[4.13e-11]
+Eucgr.L03273.1.p		-	-
+Eucgr.L03276.1.p		-	-
+Eucgr.L03278.1.p		-	-
+Eucgr.L03285.1.p		-	-
+Eucgr.L03288.1.p	0047078	0047078[alpha/beta-Hydrolases]	0047078[1.1e-47]
+Eucgr.L03309.1.p	0035371,0040112	0035371[Protein kinase-like (PK-like)]; 0040112[alpha-D-mannose-specific plant lectins]	0035371[3.42e-47]; 0040112[2.22e-21]
+Eucgr.L03346.1.p	0048968	0048968[Clavaminate synthase-like]	0048968[1.99e-58]
+Eucgr.L03367.1.p	0047411	0047411[RmlC-like cupins]	0047411[2.49e-44]
+Eucgr.L03388.1.p		-	-
+Eucgr.L03388.2.p		-	-
+Eucgr.L03390.1.p		-	-
+Eucgr.L03390.2.p		-	-
+Eucgr.L03390.3.p		-	-
+Eucgr.L03394.1.p	0049955	0049955[Concanavalin A-like lectins/glucanases]	0049955[3.27e-81]
+Eucgr.L03403.1.p		-	-
+Eucgr.L03436.1.p	0049331	0049331[Ankyrin repeat]	0049331[4.82e-35]
+Eucgr.L03442.1.p		-	-
+Eucgr.L03446.1.p	0047619	0047619[L domain-like]	0047619[7.23e-36]
+Eucgr.L03470.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[1.78e-52]
+Eucgr.L03482.1.p		-	-
+Eucgr.L03485.1.p	0037738,0048505	0037738[RNI-like]; 0048505[L domain-like]	0037738[3.14e-20]; 0048505[5.44e-41]
+Eucgr.L03486.1.p	0049214	0049214[Pectin lyase-like]	0049214[5.5e-92]
+Eucgr.L03499.1.p		-	-
+Eucgr.L03509.1.p	0051291	0051291[CYTH-like phosphatases]	0051291[9.42e-21]
+Eucgr.L03510.1.p	0037739,0041351	0037739[Skp1 dimerisation domain-like]; 0041351[POZ domain]	0037739[8.76e-19]; 0041351[1.1e-16]
+Eucgr.L03514.1.p		-	-
+Eucgr.L03523.1.p		-	-
+Eucgr.L03549.1.p		-	-
+Eucgr.L03564.1.p	0048505	0048505[L domain-like]	0048505[1.47e-16]
+Eucgr.L03568.1.p	0054927	0054927[SGNH hydrolase]	0054927[9.34e-05]
+Eucgr.L03571.1.p	0048266	0048266[P-loop containing nucleoside triphosphate hydrolases]	0048266[1.18e-11]
+Eucgr.L03576.1.p	0049913	0049913[RmlC-like cupins]	0049913[8.51e-41]
+Eucgr.L03583.1.p	0046888	0046888[Toll/Interleukin receptor TIR domain]	0046888[3.01e-08]
+Eucgr.L03585.1.p	0054041	0054041[DsbB-like]	0054041[0.00116]
+Eucgr.L03589.1.p	0040327	0040327[S-adenosyl-L-methionine-dependent methyltransferases]	0040327[1.16e-18]
+Eucgr.L03590.1.p	0050756	0050756[Ubiquitin-like]	0050756[3.96e-16]
+Eucgr.L03602.1.p		-	-
+Eucgr.L03605.1.p		-	-
+Eucgr.L03607.1.p		-	-
+Eucgr.L03617.1.p	0042383	0042383[PLP-dependent transferases]	0042383[1.44e-13]
+Eucgr.L03619.1.p	0038477	0038477[Protein kinase-like (PK-like)]	0038477[8.29e-10]
+Eucgr.L03636.1.p		-	-
+Eucgr.L03651.1.p	0043518	0043518[Multidrug resistance efflux transporter EmrE]	0043518[0.000693]
+Eucgr.L03655.1.p		-	-
+Eucgr.L03663.1.p		-	-
+Eucgr.L03668.1.p		-	-
+Eucgr.L03682.1.p	0043074	0043074[Protein kinase-like (PK-like)]	0043074[2.29e-77]
+Eucgr.L03693.1.p	0040455,0043683	0040455[PDZ domain-like]; 0043683[Trypsin-like serine proteases]	0040455[1.37e-06]; 0043683[1.08e-31]
+Eucgr.L03694.1.p	0050582	0050582[DNA-binding pseudobarrel domain]	0050582[5.1e-15]
+Eucgr.L03695.1.p	0054879	0054879[FAD/NAD(P)-binding domain]	0054879[1.22e-08]
+Eucgr.L03701.1.p		-	-
+Eucgr.L03703.1.p		-	-
+Eucgr.L03711.1.p		-	-
+Eucgr.L03718.1.p		-	-
+Eucgr.L03724.1.p		-	-
+Eucgr.L03727.1.p	0040727	0040727[Protein kinase-like (PK-like)]	0040727[3.78e-56]
+Eucgr.L03744.1.p	0035371	0035371[Protein kinase-like (PK-like)]	0035371[5.88e-49]
+Eucgr.L03752.1.p	0040727	0040727[Protein kinase-like (PK-like)]	0040727[3.05e-36]
+Eucgr.L03760.1.p		-	-
+Eucgr.L03761.1.p		-	-

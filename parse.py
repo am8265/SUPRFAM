@@ -41,16 +41,19 @@ for id in sorted(gene_sprfam.keys()):
     cat_sprfam_id=''
     cat_des=''
     cat_evals=''
-    for suprfam_id in gene_sprfam(id).values():#this can be a list of ['-','-']
+    for suprfam_id in gene_sprfam[id].keys():#this can be a list of ['-','-']
         if suprfam_id!='-':#if there is valid hit for suprfam_id 
             des=sprfm_des.get(suprfam_id,'NA')#for this Superfam identifier , NO DESCRIPTION is available!
             min_eval=min(gene_sprfam[id][suprfam_id])#minimum of evalues  
             cat_sprfam_id+=suprfam_id+','
             cat_des+=suprfam_id+'['+des+']'+'; '
-            cat_evals+=suprfam_id+'['+min_eval+']'+'; '
+            cat_evals+=suprfam_id+'['+str(min_eval)+']'+'; '
         else:#no suprfam_id does not exist for that gene_id
             cat_des='-'
             cat_sprfam='-'
             cat_evals='-'
+    cat_sprfam_id=cat_sprfam_id.strip(',')
+    cat_des=cat_des.rstrip().rstrip(';')
+    cat_evals=cat_evals.strip().rstrip(';')
     fh2.write(id+'\t'+cat_sprfam_id+'\t'+cat_des+'\t'+cat_evals+'\n')    
 fh2.close()
